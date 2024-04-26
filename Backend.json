@@ -25,15 +25,15 @@
     "price": 500
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_434_Athena_Commando_F_StealthHonor", "AthenaBackpack:BID_256_ShatterFly"],
-    "price": 3000
+    "itemGrants": ["CID_538_Athena_Commando_M_Taco"],
+    "price": 1200
   },
   "featured2": {
     "itemGrants": ["AthenaPickaxe:Pickaxe_ID_294_CandyCane"],
     "price": 1500
   },
   "featured3": {
-    "itemGrants": ["AthenaDance:EID_CycloneHeadBang"],
-    "price": 100
+    "itemGrants": ["EID_JanuaryBop"],
+    "price": 1200
   }
 }
