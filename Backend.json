@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_697_Athena_Commando_F_GraffitiFuture"],
-    "price": 600
+    "itemGrants": ["AthenaItemWrap:Wrap_178_Constellation"],
+    "price": 500
   },
   "daily2": {
-    "itemGrants": ["AthenaGlider:Glider_Prismatic"],
-    "price": 800
+    "itemGrants": ["AthenaGlider:Glider_ID_176_BlackMondayCape_4P79K"],
+    "price": 1200
   },
   "daily3": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_035_Prismatic"],
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_179_StarWand"],
     "price": 800
   },
   "daily4": {
-    "itemGrants": ["AthenaBackpack:BID_270_StreetDemon"],
-    "price": 300
+    "itemGrants": ["AthenaPickaxe:SpikyPickaxe"],
+    "price": 800
   },
   "daily5": {
-    "itemGrants": ["AthenaSkyDiveContrail:Trails_ID_037_Glyphs"],
-    "price": 300
+    "itemGrants": ["AthenaDance:EID_JanuaryBop_Beyond"],
+    "price": 1200
   },
   "daily6": {
-    "itemGrants": ["AthenaItemWrap:Wrap_184_NewYearStar"],
+    "itemGrants": ["AthenaDance:EID_KEagle"],
     "price": 500
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_434_Athena_Commando_F_StealthHonor", "AthenaBackpack:BID_256_ShatterFly"],
-    "price": 3000
+    "itemGrants": ["AthenaCharacter:CID_530_Athena_Commando_F_BlackMonday_1BV6J",
+    "price": 1500
   },
   "featured2": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_294_CandyCane"],
+    "itemGrants": ["AthenaCharacter:CID_642_Athena_Commando_F_ConstellationStar", "AthenaBackpack:BID_435_Constellation"],
     "price": 1500
   },
   "featured3": {
-    "itemGrants": ["AthenaDance:EID_CycloneHeadBang"],
-    "price": 100
+    "itemGrants": ["AthenaCharacter:CID_478_Athena_Commando_F_WorldCup"],
+    "price": 1000
   }
 }
