@@ -1,12 +1,12 @@
-CID_434_Athena_Commando_F_StealthHonor, 3000
-BID_256_ShatterFly
-Pickaxe_ID_294_CandyCane, 1500
-EID_CycloneHeadBang, 100
+CID_530_Athena_Commando_F_BlackMonday_1BV6J, 1500
+CID_642_Athena_Commando_F_ConstellationStar, 1500
+CID_478_Athena_Commando_F_WorldCup, 1000
 na
 na
-CID_697_Athena_Commando_F_GraffitiFuture, 600
-Glider_Prismatic, 800
-Pickaxe_ID_035_Prismatic, 800
-BID_270_StreetDemon, 300
-Trails_ID_037_Glyphs, 300
-Wrap_184_NewYearStar, 500
+na
+Pickaxe_ID_179_StarWand, 800
+SpikyPickaxe, 800
+Glider_ID_176_BlackMondayCape_4P79K, 1500
+EID_JanuaryBop_Beyond, 1200
+EID_KEagle, 500
+Wrap_178_Constellation, 500
