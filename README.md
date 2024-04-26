@@ -1,12 +1,12 @@
-CID_434_Athena_Commando_F_StealthHonor, 3000
-BID_256_ShatterFly
-Pickaxe_ID_294_CandyCane, 1500
-EID_CycloneHeadBang, 100
+CID_748_Athena_Commando_F_Hitman, 1500
+BID_220_FarmerFemale
+Pickaxe_ID_179_StarWand, 800
+EID_BlackMondayFemale_6HO4L, 200
 na
 na
-CID_697_Athena_Commando_F_GraffitiFuture, 600
-Glider_Prismatic, 800
-Pickaxe_ID_035_Prismatic, 800
-BID_270_StreetDemon, 300
-Trails_ID_037_Glyphs, 300
-Wrap_184_NewYearStar, 500
+CID_452_Athena_Commando_F_CyberFu, 1200
+Glider_ID_110_TeriyakiFish, 800
+Pickaxe_ID_140_StreetGoth, 800
+BID_487_WinterHunterFemale, 200
+Trails_ID_043_DiscoBalls, 300
+EID_BreakfastCoffeeDance, 500
