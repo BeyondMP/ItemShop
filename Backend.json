@@ -1,43 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_298_Athena_Commando_F_IceMaiden"],
+    "itemGrants": ["AthenaCharacter:CID_715_Athena_Commando_F_TwinDark"],
     "price": 1200
   },
   "daily2": {
-    "itemGrants": ["AthenaCharacter:CID_220_Athena_Commando_F_Clown"],
-    "price": 500
+    "itemGrants": ["AthenaCharacter:CID_752_Athena_Commando_M_Comet"],
+    "price": 1200
   },
   "daily3": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_363_LollipopTricksterFemale"],
-    "price": 500
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_026_Brite"],
+    "price": 1000
   },
   "daily4": {
-    "itemGrants": ["AthenaDance:EID_AfroHouse"],
+    "itemGrants": ["AthenaDance:EID_LazyShuffle"],
     "price": 500
   },
   "daily5": {
-    "itemGrants": ["AthenaDance:EID_TakeTheL"],
-    "price": 1000
+    "itemGrants": ["AthenaDance:EID_WindmillFloss"],
+    "price": 500
   },
   "daily6": {
-    "itemGrants": ["AthenaGlider:Glider_ID_201_TNTinaFemale"],
-    "price": 500
+    "itemGrants": ["AthenaBackpack:BID_138_Celestial"],
+    "price": 5000
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_703_Athena_Commando_M_Cyclone", "AthenaBackpack:BID_468_Cyclone"],
-    "price": 1000
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_376_FNCS"],
+    "price": 25000
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_761_Athena_Commando_M_CycloneSpace"],
-    "price": 1000
+    "itemGrants": ["AthenaCharacter:CID_745_Athena_Commando_M_RavenQuill"],
+    "price": 1500
   },
   "featured3": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_359_CycloneMale"],
-    "price": 500
-  },
-  "featured4": {
-    "itemGrants": ["AthenaDance:EID_Cyclone"],
-    "price": 0
+    "itemGrants": ["AthenaCharacter:CID_746_Athena_Commando_F_FuzzyBear"],
+    "price": 1500
   }
 }
