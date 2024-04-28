@@ -13,8 +13,8 @@
     "price": 800
   },
   "daily4": {
-    "itemGrants": ["AthenaBackpack:BID_270_StreetDemon"],
-    "price": 300
+    "itemGrants": ["AthenaDance:EID_SpeedDial_Beyond"],
+    "price": 1200
   },
   "daily5": {
     "itemGrants": ["AthenaSkyDiveContrail:Trails_ID_015_GoldenStarfish"],
