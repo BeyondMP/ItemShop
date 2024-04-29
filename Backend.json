@@ -18,7 +18,7 @@
   },
   "daily5": {
     "itemGrants": ["AthenaCharacter:CID_748_Athena_Commando_F_Hitman", "AthenaBackpack:BID_518_HitmanCase"],
-    "price": 300
+    "price": 1500
   },
   "daily6": {
     "itemGrants": ["AthenaItemWrap:Wrap_199_AgentAce"],
