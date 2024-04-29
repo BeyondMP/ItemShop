@@ -1,7 +1,7 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_024_Athena_Commando_F"],
+    "itemGrants": ["AthenaCharacter:CID_715_Athena_Commando_F_TwinDarkF"],
     "price": 1200
   },
   "daily2": {
