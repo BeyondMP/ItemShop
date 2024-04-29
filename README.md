@@ -1,12 +1,12 @@
-CID_034_Athena_Commando_F_Medieval + BID_003_RedKnight, 2000
-CID_044_Athena_Commando_F_SciPop, 1200
+CID_688_Athena_Commando_F_AgentRogue, 1200
+CID_748_Athena_Commando_F_Hitman, 1500
 EID_SpeedDial_Beyond, 1200
 na
 na
 na
-Pickaxe_ID_066_FlintlockRed, 800
+CID_259_Athena_Commando_M_StreetOps, 1500
 Pickaxe_ID_179_StarWand, 1000
-Glider_ID_165_KnightRemix, 1200
-Trails_ID_015_GoldenStarfish, 300
-Wrap_108_KnightRemix, 500
+Glider_ID_092_StreetOps, 1000
+CID_260_Athena_Commando_F_StreetOps, 1500
+Wrap_199_AgentAce, 500
 EID_IceKing, 1000
