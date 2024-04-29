@@ -1,10 +1,12 @@
-Pickaxe_ID_376_FNCS, 25000 
-CID_745_Athena_Commando_M_RavenQuill, 1500
-CID_746_Athena_Commando_F_FuzzyBear, 1500
+CID_381_Athena_Commando_F_BaseballKitbash, 1200
+CID_382_Athena_Commando_M_BaseballKitbash, 1200
+Glider_ID_135_Baseball, 300
 na
-CID_715_Athena_Commando_F_TwinDark, 1200
-CID_752_Athena_Commando_M_Comet, 1200
-Pickaxe_ID_026_Brite, 1000
-EID_LazyShuffle, 500
-BID_138_Celestial, 5000
-EID_WindmillFloss, 500
+na
+na
+CID_024_Athena_Commando_F, 1200
+Pickaxe_ID_200_MoonlightAssassin, 1000
+CID_654_Athena_Commando_F_GiftWrap, 800
+Glider_ID_095_Witch, 1200
+Wrap_121_TechOpsBlue, 500
+EID_DrumMajor, 500
