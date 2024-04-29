@@ -4,7 +4,7 @@ Glider_ID_135_Baseball, 300
 na
 na
 na
-CID_024_Athena_Commando_F, 1200
+CID_715_Athena_Commando_F_TwinDarkF, 1200
 Pickaxe_ID_200_MoonlightAssassin, 1000
 CID_654_Athena_Commando_F_GiftWrap, 800
 Glider_ID_095_Witch, 1200
