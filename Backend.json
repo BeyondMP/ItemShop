@@ -33,7 +33,7 @@
     "price": 1200
   },
    "featured3": {
-    "itemGrants": ["AthenaDANCE:EID_Phew"],
+    "itemGrants": ["AthenaDance:EID_Phew"],
     "price": 200
   }  
 }
