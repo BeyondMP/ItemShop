@@ -5,8 +5,8 @@
     "price": 1200
   },
   "daily2": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_200_MoonlightAssassin"],
-    "price": 1000
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_179_StarWand"],
+    "price": 800
   },
   "daily3": {
     "itemGrants": ["AthenaCharacter:CID_654_Athena_Commando_F_GiftWrap"],
