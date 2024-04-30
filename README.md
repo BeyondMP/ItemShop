@@ -1,6 +1,6 @@
-CID_530_Athena_Commando_F_BlackMonday_1BV6J, 1500
-CID_333_Athena_Commando_M_Squishy, 1500
-EID_BasketballV2, 500
+ BID_003_RedKnight, 200
+ EID_Laugh, 500
+ CID_328_Athena_Commando_F_Tennis, 0
 na
 na
 na
