@@ -5,7 +5,7 @@ na
 na
 na
 CID_715_Athena_Commando_F_TwinDark, 1200
-Pickaxe_ID_200_MoonlightAssassin, 1000
+Pickaxe_ID_179_StarWand, 800
 CID_654_Athena_Commando_F_GiftWrap, 800
 Glider_ID_095_Witch, 1200
 Wrap_121_TechOpsBlue, 500
