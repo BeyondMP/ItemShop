@@ -5,7 +5,6 @@ na
 na
 na
  CID_648_Athena_Commando_F_MsAlpine, 1200
- Pickaxe_ID_111_BlackWidow, 800
 CID_658_Athena_Commando_F_ToyMonkey, 1200
  Glider_ID_018_Twitch, 800
 Wrap_197_ToxinBubblese, 500
