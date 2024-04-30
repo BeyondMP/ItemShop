@@ -25,15 +25,12 @@
     "price": 1000
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_061_Athena_Commando_F_SkiGirl","AthenaBackpack:BID_014_SkiGirl"],
-    "price": 1500
+    "itemGrants": ["CID_313_Athena_Commando_M_KpopFashion"],
+    "price": 1000
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_067_Athena_Commando_F_SkiGirl_CHN","AthenaBackpack:BID_020_SkiGirl_CHN"],
+    "itemGrants": ["EID_KPopDance03"],
     "price": 1500
-  },
-   "featured3": {
-    "itemGrants": ["AthenaCharacter:CID_065_Athena_Commando_F_SkiGirl_FRA","AthenaBackpack:BID_010_SkiDude_FRA"],
-    "price": 1500
+  
   }
 }
