@@ -1,12 +1,12 @@
-CID_688_Athena_Commando_F_AgentRogue, 1200
-CID_748_Athena_Commando_F_Hitman, 1500
-EID_SpeedDial_Beyond, 1200
-na
-na
-na
-CID_259_Athena_Commando_M_StreetOps, 1500
-Pickaxe_ID_179_StarWand, 1000
-Glider_ID_092_StreetOps, 1000
-CID_260_Athena_Commando_F_StreetOps, 1500
-Wrap_199_AgentAce, 500
+CID_103_Athena_Commando_M_Bunny, 1500
+CID_104_Athena_Commando_F_Bunny, 1500
 EID_IceKing, 1000
+na
+na
+na
+CID_392_Athena_Commando_F_BountyBunny, 1500
+Pickaxe_ID_038_Carrot, 1000
+Glider_ID_077_Octoberfest, 1000
+CID_611_Athena_Commando_M_WeepingWoods, 1500
+EID_Camouflage_Beyond, 1200
+EID_LetsBegin_Beyond, 1200
