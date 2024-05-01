@@ -17,12 +17,12 @@
     "price": 1200
   },
   "daily5": {
-    "itemGrants": ["AthenaCharacter:CID_748_Athena_Commando_F_Hitman", "AthenaBackpack:BID_518_HitmanCase"],
+    "itemGrants": ["AthenaCharacter:CID_611_Athena_Commando_M_WeepingWoods"],
     "price": 1500
   },
   "daily6": {
-    "itemGrants": ["AthenaDance:EID_Bunnyhop"],
-    "price": 500
+    "itemGrants": ["AthenaDance:EID_Camouflage_Beyond"],
+    "price": 1200
   },
   "featured1": {
     "itemGrants": ["AthenaCharacter:CID_103_Athena_Commando_M_Bunny", "AthenaBackpack:BID_037_BunnyMale"],
