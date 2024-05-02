@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_027_Athena_Commando_F"],
-    "price": 1200
+    "itemGrants": ["CID_703_Athena_Commando_M_Cyclone"],
+    "price": 1500
   },
   "daily2": {
-    "itemGrants": ["AthenaPickaxe:HalloweenScythe"],
-    "price": 800
+    "itemGrants": ["CID_030_Athena_Commando_M_Halloween"],
+    "price": 1500
   },
   "daily3": {
-    "itemGrants": ["AthenaItemWrap:Wrap_018_Magma"],
-    "price": 600
-  },
-  "daily4": {
-    "itemGrants": ["AthenaCharacter:CID_546_Athena_Commando_F_TacticalRed"],
-    "price": 800
+    "itemGrants": ["EID_Laugh"],
+    "price": 500
   },
   "daily5": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_138_Gnome"],
-    "price": 800
+    "itemGrants": ["Pickaxe_ID_179_StarWand"],
+    "price": 700
   },
   "daily6": {
-    "itemGrants": ["AthenaDance:EID_Camouflage_Beyond"],
+    "itemGrants": ["Wrap_018_Magma"],
     "price": 1000
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_362_Athena_Commando_F_BandageNinja","AthenaBackpack:BID_226_BandageNinjaFemale"],
-    "price": 1500
+    "itemGrants": ["Pickaxe_ID_363_LollipopTricksterFemale"],
+    "price": 700
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_361_Athena_Commando_M_BandageNinja","AthenaBackpack:BID_225_BandageNinjaMale"],
-    "price": 1500
+    "itemGrants": ["CCID_135_Athena_Commando_F_Jailbird"],
+    "price": 1300
   },
    "featured3": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_172_BandageNinja"],
-    "price": 500
+    "itemGrants": ["CID_760_Athena_Commando_F_NeonTightSuit"],
+    "price": 1500
    }
+    },
+  "daily4": {
+    "itemGrants": ["AthenaCharacter:CID_546_Athena_Commando_F_TacticalRed"],
+    "price": 800
 }
