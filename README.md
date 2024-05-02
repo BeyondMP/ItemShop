@@ -4,7 +4,7 @@ CID_751_Athena_Commando_F_NeonCatSpy, 1500
 na
 na
 na
- CID_658_Athena_Commando_F_ToyMonkey, 1200
+CID_658_Athena_Commando_F_ToyMonkey, 1200
 CID_453_Athena_Commando_F_GlowBro, 1500
 Pickaxe_ID_108_PumpkinSlice, 800
 CID_431_Athena_Commando_F_StormPilot, 800
