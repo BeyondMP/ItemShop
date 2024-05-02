@@ -9,4 +9,4 @@ CID_453_Athena_Commando_F_GlowBro, 1500
 Pickaxe_ID_108_PumpkinSlice, 800
 CID_431_Athena_Commando_F_StormPilot, 800
 BID_130_VampireMale02, 600
-CID_052_Athena_Commando_F_PSBlue 1200
+CID_052_Athena_Commando_F_PSBlue, 1200
