@@ -1,6 +1,6 @@
  CID_149_Athena_Commando_F_SoccerGirlB, 1200
  CID_578_Athena_Commando_F_Fisherman, 1200
- BID_200_SnowNinjaFemale
+ BID_200_SnowNinjaFemale, 500
 na
 na
 na
