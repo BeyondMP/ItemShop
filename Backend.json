@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_027_Athena_Commando_F"],
-    "price": 1200
+    "itemGrants": ["AthenaCharacter:CID_029_Athena_Commando_F_Halloween"],
+    "price": 1500
   },
   "daily2": {
-    "itemGrants": ["AthenaPickaxe:HalloweenScythe"],
-    "price": 800
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_STW006_Tier_7"],
+    "price": 1200
   },
   "daily3": {
-    "itemGrants": ["AthenaItemWrap:Wrap_018_Magma"],
-    "price": 600
+    "itemGrants": ["AthenaItemWrap:Wrap_085_Beach"],
+    "price": 50
   },
   "daily4": {
-    "itemGrants": ["AthenaCharacter:CID_546_Athena_Commando_F_TacticalRed"],
+    "itemGrants": ["AthenaCharacter:CID_674_Athena_Commando_F_HoodieBandit"],
     "price": 800
   },
   "daily5": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_138_Gnome"],
-    "price": 800
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_343_HoodieBanditFemale"],
+    "price": 1000
   },
   "daily6": {
     "itemGrants": ["AthenaDance:EID_Camouflage_Beyond"],
-    "price": 1000
+    "price": 1200
   },
   "featured1": {
-    "itemGrants": ["AthenaMusicPack:MusicPack_FMD"],
-    "price": 500
+    "itemGrants": ["AthenaBackPack:BID_120_Werewolf"],
+    "price": 2000
   },
   "featured2": {
-    "itemGrants": ["AthenaMusicPack:MusicPack_JennifersBody"],
-    "price": 500
+    "itemGrants": ["AthenaMusicPack:MusicPack_047_FreestylinClubRemix"],
+    "price": 50
   },
    "featured3": {
-    "itemGrants": ["AthenaPickaxe:HappyPickaxe"],
-    "price": 200
+    "itemGrants": ["AthenaPickaxe:GalileoPickaxeBundle"],
+    "price": 3000
    }
 }
