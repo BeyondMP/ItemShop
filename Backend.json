@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_027_Athena_Commando_F"],
-    "price": 1200
-  },
-  "daily2": {
-    "itemGrants": ["AthenaPickaxe:HalloweenScythe"],
-    "price": 800
-  },
-  "daily3": {
-    "itemGrants": ["AthenaItemWrap:Wrap_018_Magma"],
-    "price": 600
-  },
-  "daily4": {
-    "itemGrants": ["AthenaCharacter:CID_546_Athena_Commando_F_TacticalRed"],
-    "price": 800
-  },
-  "daily5": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_138_Gnome"],
-    "price": 800
-  },
-  "daily6": {
-    "itemGrants": ["AthenaDance:EID_Camouflage_Beyond"],
+    "itemGrants": ["AthenaCharacter:CID_530_Athena_Commando_F_BlackMonday_1BV6J"],
     "price": 1000
   },
-  "featured1": {
-    "itemGrants": ["AthenaMusicPack:MusicPack_FMD"],
+  "daily2": {
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_363_LollipopTricksterFemale"],
     "price": 500
   },
+  "daily3": {
+    "itemGrants": ["AthenaCharacter:CID_715_Athena_Commando_F_TwinDark"],
+    "price": 800
+  },
+  "daily4": {
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_179_StarWand"],
+    "price": 500
+  },
+  "daily5": {
+    "itemGrants": ["AthenaCharacter:CID_748_Athena_Commando_F_Hitman"],
+    "price": 1000
+  },
+  "daily6": {
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_015_HolidayCandyCane"],
+    "price": 800
+  },
+  "featured1": {
+    "itemGrants": ["AthenaCharacter:CID_683_Athena_Commando_F_TigerFashion"],
+    "price": 800
+  },
   "featured2": {
-    "itemGrants": ["AthenaMusicPack:MusicPack_JennifersBody"],
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_014_WinterCamo"],
     "price": 500
   },
    "featured3": {
-    "itemGrants": ["AthenaPickaxe:HappyPickaxe"],
-    "price": 200
+    "itemGrants": ["AthenaItemWrap:Wrap_097_NeonLines"],
+    "price": 400
    }
 }
