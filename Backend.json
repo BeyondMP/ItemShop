@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_027_Athena_Commando_F"],
-    "price": 1200
+    "itemGrants": ["AthenaCharacter:CID_322_Athena_Commando_M_TechOps"],
+    "price": 1000
   },
   "daily2": {
-    "itemGrants": ["AthenaPickaxe:HalloweenScythe"],
-    "price": 800
+    "itemGrants": ["AthenaPickaxe:Pickaxe_Lockjaw"],
+    "price": 120000
   },
   "daily3": {
-    "itemGrants": ["AthenaItemWrap:Wrap_018_Magma"],
-    "price": 600
+    "itemGrants": ["AthenaDance:EID_Hype"],
+    "price": 400
   },
   "daily4": {
-    "itemGrants": ["AthenaCharacter:CID_546_Athena_Commando_F_TacticalRed"],
-    "price": 800
+    "itemGrants": ["AthenaCharacter:CID_432_Athena_Commando_M_BalloonHead"],
+    "price": 2000
   },
   "daily5": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_138_Gnome"],
-    "price": 800
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_055_Stop"],
+    "price": 1200
   },
   "daily6": {
     "itemGrants": ["AthenaDance:EID_Camouflage_Beyond"],
     "price": 1000
   },
   "featured1": {
-    "itemGrants": ["AthenaMusicPack:MusicPack_FMD"],
-    "price": 500
+    "itemGrants": ["AthenaMusicPack:MusicPack_STW001_CannyValley"],
+    "price": 50
   },
   "featured2": {
-    "itemGrants": ["AthenaMusicPack:MusicPack_JennifersBody"],
-    "price": 500
+    "itemGrants": ["AthenaDance:EID_CrackshotDance"],
+    "price": 600
   },
    "featured3": {
-    "itemGrants": ["AthenaPickaxe:HappyPickaxe"],
+    "itemGrants": ["AthenaPickaxe:BID_381_RustyRaiderMotor"],
     "price": 200
    }
 }
