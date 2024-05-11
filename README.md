@@ -1,6 +1,6 @@
-CID_315_Athena_Commando_M_TeriyakiFish, 1500
-CID_597_Athena_Commando_M_Freak, 1500
-EID_SwimDance, 500
+CID_434_Athena_Commando_F_StealthHonor, 1500
+CID_497_Athena_Commando_F_WildWest, 1500
+EID_KPopDance03, 500
 na
 na
 na
