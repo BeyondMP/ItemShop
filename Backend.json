@@ -1,7 +1,7 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaGlider:Glider_ID_055_StreetRacerBlack"],
+    "itemGrants": ["AthenaGlider:Glider_ID_090_Celestial"],
     "price": 500
   },
   "daily2": {
@@ -9,31 +9,31 @@
     "price": 300
   },
   "daily3": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_193_HotDog"],
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_294_CandyCane"],
     "price": 800
   },
   "daily4": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_220_ForkKnife1H"],
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_192_PalmTree"],
     "price": 800
   },
   "daily5": {
-    "itemGrants": ["AthenaDance:EID_IDontKnow"],
+    "itemGrants": ["AthenaDance:EID_KPopDance03"],
     "price": 500
   },
   "daily6": {
-    "itemGrants": ["AthenaCharacter:CID_614_Athena_Commando_M_MissingLink"],
+    "itemGrants": ["AthenaCharacter:CID_434_Athena_Commando_F_StealthHonor"],
     "price": 500
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_315_Athena_Commando_M_TeriyakiFish"],
+    "itemGrants": ["AthenaCharacter:CID_497_Athena_Commando_F_WildWest"],
     "price": 1500
   },
   "featured2": {
-    "itemGrants": ["AthenaDance:EID_SwimDance"],
+    "itemGrants": ["AthenaDance:EID_SquishyDance"],
     "price": 500
   },
   "featured3": {
-    "itemGrants": ["AthenaCharacter:CID_597_Athena_Commando_M_Freak"],
+    "itemGrants": ["AthenaCharacter:CID_472_Athena_Commando_F_CyberKarate"],
     "price": 2000
   }
 }
