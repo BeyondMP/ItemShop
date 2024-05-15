@@ -1,71 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaGlider:Glider_ID_024_Reaper"],
-    "price": 800
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_015_HolidayCandyCane"],
+    "price": 1500
   },
   "daily2": {
-    "itemGrants": ["AthenaMusicPack:MusicPack_047_FreestylinClubRemix"],
+    "itemGrants": ["AthenaDance:EID_OneArmFloss"],
     "price": 500
   },
   "daily3": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_089_RavenQuill"],
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_363_LollipopTricksterFemale"],
     "price": 800
   },
   "daily4": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_134_Snowman"],
-    "price": 800
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_202_AshtonBoardwalk"],
+    "price": 1000
   },
   "daily5": {
-    "itemGrants": ["AthenaDance:EID_Bendy"],
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_179_StarWand"],
     "price": 800
   },
   "daily6": {
-    "itemGrants": ["AthenaCharacter:CID_663_Athena_Commando_F_Frogman"],
+    "itemGrants": ["AthenaCharacter:CID_151_Athena_Commando_F_SoccerGirlD"],
     "price": 1200
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_194_Athena_Commando_F_RavenQuill"],
+    "itemGrants": ["AthenaCharacter:CID_715_Athena_Commando_F_TwinDark"],
     "price": 2000
   },
   "featured2": {
-    "itemGrants": ["AthenaDance:EID_HipHop01"],
-    "price": 1200
+    "itemGrants": ["AthenaCharacter:CID_642_Athena_Commando_F_ConstellationStar"],
+    "price": 1500
   },
   "featured3": {
-    "itemGrants": ["AthenaCharacter:CID_102_Athena_Commando_M_Raven"],
+    "itemGrants": ["AthenaCharacter:CID_399_Athena_Commando_F_AshtonBoardwalk"],
     "price": 2000
-  },
-  "daily2": {
-    "itemGrants": ["AthenaItemWrap:Wrap_230_Glacier"],
-    "price": 300
-  },
-  "daily3": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_169_Farmer"],
-    "price": 0
-  },
-  "daily4": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_215_Pug"],
-    "price": 800
-  },
-  "daily5": {
-    "itemGrants": ["AthenaDance:EID_BillyBounce"],
-    "price": 800
-  },
-  "daily6": {
-    "itemGrants": ["AthenaCharacter:CID_616_Athena_Commando_F_CavalryBandit"],
-    "price": 1200
-  },
-  "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_194_Athena_Commando_F_RavenQuill"],
-    "price": 2000
-  },
-  "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_102_Athena_Commando_M_Raven"],
-    "price": 2000
-  },
-  "featured3": {
-    "itemGrants": ["AthenaDance:EID_HipHop01"],
-    "price": 1200
   }
 }
