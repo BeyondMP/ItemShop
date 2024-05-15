@@ -1,12 +1,12 @@
-CID_194_Athena_Commando_F_RavenQuill, 2000
-CID_102_Athena_Commando_M_Raven, 2000
-EID_HipHop01, 1200
+CID_715_Athena_Commando_F_TwinDark, 2000
+CID_642_Athena_Commando_F_ConstellationStar, 1500
+CID_399_Athena_Commando_F_AshtonBoardwalk, 2000
 na
 na
 na
-MusicPack_047_FreestylinClubRemix, 500
-EID_Bendy, 800
-Pickaxe_ID_089_RavenQuill, 800
-Glider_ID_024_Reaper, 800
-Pickaxe_ID_134_Snowman, 800
-CID_663_Athena_Commando_F_Frogman, 1200
+Pickaxe_ID_202_AshtonBoardwalk, 1000
+Pickaxe_ID_363_LollipopTricksterFemale, 800
+Pickaxe_ID_015_HolidayCandyCane, 1500
+Pickaxe_ID_074_SharpDresser, 800
+Solo_Umbrella, 0
+EID_WindmillFloss, 800
