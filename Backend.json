@@ -29,7 +29,7 @@
     "price": 1500
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:Glider_ID_134_DarkVikingFire"],
+    "itemGrants": ["AthenaGlider:Glider_ID_134_DarkVikingFire"],
     "price": 1000
   },
   "featured3": {
