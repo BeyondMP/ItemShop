@@ -1,12 +1,12 @@
-CID_439_Athena_Commando_F_SkullBriteEclipse, 1500
-CID_510_Athena_Commando_F_AngelEclipse, 2000
-CID_437_Athena_Commando_F_AztecEclipse, 1500
+CID_380_Athena_Commando_F_DarkViking_Fire, 1500
+CID_379_Athena_Commando_M_BattleHoundFire, 1500
+Glider_ID_134_DarkVikingFire, 1000
 na
 na
 na
-MusicPack_015_GoodVibes, 500
-Pickaxe_ID_221_SkullBriteEclipse, 800
-BID_341_AngelEclipse, 200
-Glider_ID_140_ShatterFly, 800
-Umbrella_AssassinSuit, 200
-CID_395_Athena_Commando_F_ShatterFly, 1200
+MusicPack_043_Overdrive, 500
+Pickaxe_ID_261_DarkEagleFire1H, 800
+BID_347_DarkEagleFire, 300
+EID_FireDance, 800
+Umbrella_Season_12, 200
+CID_715_Athena_Commando_F_TwinDark, 1500
