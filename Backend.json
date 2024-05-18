@@ -1,39 +1,77 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaGlider:Glider_ID_176_BlackMondayCape_4P79K"],
+    "itemGrants": ["AthenaGlider:Glider_ID_110_TeriyakiFish"],
     "price": 1200
   },
   "daily2": {
-    "itemGrants": ["AthenaCharacter:CID_704_Athena_Commando_F_LollipopTrickster"],
-    "price": 1500
+    "itemGrants": ["AthenaCharacter:CID_734_Athena_Commando_F_BannerRed"],
+    "price": 800
   },
   "daily3": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_015_HolidayCandyCane"],
-    "price": 1500
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_138_Gnome"],
+    "price": 800
   },
   "daily4": {
-    "itemGrants": ["AthenaDance:EID_WalkieWalk"],
+    "itemGrants": ["AthenaDance:EID_Laugh"],
     "price": 500
   },
   "daily5": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_074_SharpDresser"],
-    "price": 800
+    "itemGrants": ["AthenaDance:EID_KingEagler"],
+    "price": 500
   },
   "daily6": {
-    "itemGrants": ["AthenaCharacter:CID_515_Athena_Commando_M_BarbequeLarry"],
-    "price": 2000
+    "itemGrants": ["AthenaCharacter:CID_523_Athena_Commando_F_Cupid"],
+    "price": 1500
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_715_Athena_Commando_F_TwinDark"],
-    "price": 1500
+    "itemGrants": ["AthenaCharacter:CID_683_Athena_Commando_F_TigerFashion"],
+    "price": 1200
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_642_Athena_Commando_F_ConstellationStar"],
-    "price": 1500
+    "itemGrants": ["AthenaCharacter:CID_748_Athena_Commando_F_Hitman"],
+    "price": 1200
   },
   "featured3": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_363_LollipopTricksterFemale"],
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_179_StarWand"],
+    "price": 800
+  }
+}{
+  "//": "BR Item Shop Config",
+  "daily1": {
+    "itemGrants": ["AthenaGlider:Glider_ID_110_TeriyakiFish"],
+    "price": 1200
+  },
+  "daily2": {
+    "itemGrants": ["AthenaCharacter:CID_734_Athena_Commando_F_BannerRed"],
+    "price": 800
+  },
+  "daily3": {
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_138_Gnome"],
+    "price": 800
+  },
+  "daily4": {
+    "itemGrants": ["AthenaDance:EID_Laugh"],
+    "price": 500
+  },
+  "daily5": {
+    "itemGrants": ["AthenaDance:EID_KingEagler"],
+    "price": 500
+  },
+  "daily6": {
+    "itemGrants": ["AthenaCharacter:CID_523_Athena_Commando_F_Cupid"],
+    "price": 1500
+  },
+  "featured1": {
+    "itemGrants": ["AthenaCharacter:CID_683_Athena_Commando_F_TigerFashion"],
+    "price": 1200
+  },
+  "featured2": {
+    "itemGrants": ["AthenaCharacter:CID_748_Athena_Commando_F_Hitman"],
+    "price": 1200
+  },
+  "featured3": {
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_179_StarWand"],
     "price": 800
   }
 }

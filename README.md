@@ -1,12 +1,12 @@
-CID_715_Athena_Commando_F_TwinDark, 1500
-CID_642_Athena_Commando_F_ConstellationStar, 1500
-Pickaxe_ID_363_LollipopTricksterFemale, 800
+CID_683_Athena_Commando_F_TigerFashion, 1200
+Pickaxe_ID_179_StarWand, 800
+CID_748_Athena_Commando_F_Hitman, 1200
 na
 na
 na
-Glider_ID_176_BlackMondayCape_4P79K, 1200
-CID_704_Athena_Commando_F_LollipopTrickster, 1500
-Pickaxe_ID_015_HolidayCandyCane, 1500
-EID_WalkieWalk, 500
-Pickaxe_ID_074_SharpDresser, 800
-CID_515_Athena_Commando_M_BarbequeLarry, 2000
+Glider_ID_110_TeriyakiFish, 1200
+CID_734_Athena_Commando_F_BannerRed, 800
+EID_KingEagle, 500
+EID_Laugh, 500
+Pickaxe_ID_138_Gnome, 800
+CID_523_Athena_Commando_F_Cupid, 1500
