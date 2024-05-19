@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaDance:EID_FireDance"],
-    "price": 800
-  },
-  "daily2": {
-    "itemGrants": ["AthenaMusicPack:MusicPack_043_Overdrive"],
-    "price": 500
-  },
-  "daily3": {
-    "itemGrants": ["AthenaGlider:Umbrella_Season_12"],
-    "price": 200
-  },
-  "daily4": {
-    "itemGrants": ["AthenaBackPack:BID_347_DarkEagleFire"],
+    "itemGrants": ["AthenaDance:EID_Cry"],
     "price": 300
   },
+  "daily2": {
+    "itemGrants": ["AthenaMusicPack:MusicPack_006_Twist"],
+    "price": 200
+  },
+  "daily3": {
+    "itemGrants": ["AthenaGliderGlider_ID_003_District"],
+    "price": 500
+  },
+  "daily4": {
+    "itemGrants": ["AthenaBackPack:BID_273_AssassinSuitCoin"],
+    "price": 500
+  },
   "daily5": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_261_DarkEagleFire1H"],
+    "itemGrants": ["AthenaPickaxe:Pickaxe_Flamingo"],
     "price": 800
   },
   "daily6": {
-    "itemGrants": ["AthenaCharacter:CID_703_Athena_Commando_M_Cyclone"],
-    "price": 0
+    "itemGrants": ["AthenaCharacter: CID_464_Athena_Commando_M_Flamingo"],
+    "price": 800
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_380_Athena_Commando_F_DarkViking_Fire"],
-    "price": 1500
+    "itemGrants": ["AthenaCharacter:CID_240_Athena_Commando_F_Plague"],
+    "price": 2000
   },
   "featured2": {
-    "itemGrants": ["AthenaGlider:Glider_ID_134_DarkVikingFire"],
-    "price": 1000
+    "itemGrants": ["AthenaGlider:FounderUmbrella"],
+    "price": 200
   },
   "featured3": {
-    "itemGrants": ["AthenaCharacter:CID_379_Athena_Commando_M_BattleHoundFire"],
-    "price": 1500
+    "itemGrants": ["AthenaCharacter:CID_041_Athena_Commando_F_District"],
+    "price": 1000
   }
 }
