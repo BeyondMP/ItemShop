@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaDance:EID_FireDance"],
-    "price": 800
+    "itemGrants": ["AthenaDance:EID_TakeTheW"],
+    "price": 500
   },
   "daily2": {
-    "itemGrants": ["AthenaMusicPack:MusicPack_043_Overdrive"],
+    "itemGrants": ["AthenaMusicPack:MusicPack_015_GoodVibes"],
     "price": 500
   },
   "daily3": {
-    "itemGrants": ["AthenaGlider:Umbrella_Season_12"],
-    "price": 200
+    "itemGrants": ["AthenaGlider:Glider_ID_206_Donut"],
+    "price": 2000
   },
   "daily4": {
-    "itemGrants": ["AthenaBackPack:BID_347_DarkEagleFire"],
+    "itemGrants": ["AthenaBackPack:BID_273_AssassinSuitCoin"],
     "price": 300
   },
   "daily5": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_261_DarkEagleFire1H"],
-    "price": 800
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_022_HolidayGiftWrap"],
+    "price": 500
   },
   "daily6": {
-    "itemGrants": ["AthenaCharacter:CID_703_Athena_Commando_M_Cyclone"],
-    "price": 0
+    "itemGrants": ["AthenaCharacter:CID_061_Athena_Commando_F_SkiGirl"],
+    "price": 1500
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_380_Athena_Commando_F_DarkViking_Fire"],
+    "itemGrants": ["AthenaCharacter:CID_511_Athena_Commando_M_CubePaintWildCard"],
     "price": 1500
   },
   "featured2": {
-    "itemGrants": ["AthenaGlider:Glider_ID_134_DarkVikingFire"],
-    "price": 1000
+    "itemGrants": ["AthenaGlider:Glider_ID_104_Durrburger"],
+    "price": 300
   },
   "featured3": {
-    "itemGrants": ["AthenaCharacter:CID_379_Athena_Commando_M_BattleHoundFire"],
-    "price": 1500
+    "itemGrants": ["AthenaCharacter:CID_158_Athena_Commando_F_StarsAndStripes"],
+    "price": 500
   }
 }
