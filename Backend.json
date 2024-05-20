@@ -29,8 +29,7 @@
     "price": 2000
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:ID: CID_625_Athena_Commando_F_PinkTrooper
-"],
+    "itemGrants": ["AthenaCharacter:ID: CID_625_Athena_Commando_F_PinkTrooper"],
     "price": 1200
   },
   "featured3": {
