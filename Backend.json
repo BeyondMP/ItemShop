@@ -29,7 +29,8 @@
     "price": 2000
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:Pickaxe_ID_143_FlintlockWinter"],
+    "itemGrants": ["AthenaCharacter:ID: CID_625_Athena_Commando_F_PinkTrooper
+"],
     "price": 1200
   },
   "featured3": {
