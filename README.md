@@ -1,12 +1,1 @@
-CID_067_Athena_Commando_F_SkiGirl_CHN, 1500
-CID_061_Athena_Commando_F_SkiGirl, 1500
-Pickaxe_ID_138_Gnome, 800
-na
-na
-na
-EID_CrabDance, 500
-CID_649_Athena_Commando_F_HolidayPJ, 800
-Pickaxe_ID_067_Taxi, 500
-BID_273_AssassinSuitCoin, 200
-Pickaxe_ID_014_WinterCamo, 500
-CID_748_Athena_Commando_F_Hitman, 1200
+100th
