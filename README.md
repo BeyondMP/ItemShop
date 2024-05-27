@@ -1,12 +1,12 @@
-EID_ArtGiant, 1000
-CID_369_Athena_Commando_F_DevilRock, 2000
-CID_370_Athena_Commando_M_EvilSuit, 2000
+DeadpoolMashupBundle, 2000
+Pickaxe_ID_382_Donut1H, 800
+Glider_ID_206_Donut, 1500
+EID_Donut1, 500
+EID_Donut2, 500
 na
+BID_278_VigilanteBoard, 500
+Glider_ID_104_Math, 800
+EID_NeverGonna, 500
+Wrap_202_FadingMosaicA, 500
+EID_MakeItPlantain, 500
 na
-na
-MusicPack_039_Envy, 500
-Glider_ID_104_FuzzyBear, 1200
-EID_Fresh, 3500
-Wrap_139_Prismatic, 300
-EID_Floss, 5000
-CID_598_Athena_Commando_M_Mastermind, 1500
