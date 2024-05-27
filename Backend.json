@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_598_Athena_Commando_M_Mastermind"],
-    "price": 1500
-  },
-  "daily2": {
-    "itemGrants": ["AthenaItemWrap:Wrap_139_Prismatic"],
-    "price": 300
-  },
-  "daily3": {
-    "itemGrants": ["AthenaGlider:Glider_ID_104_FuzzyBear"],
-    "price": 1200
-  },
-  "daily4": {
-    "itemGrants": ["AthenaDance:EID_Fresh"],
-    "price": 3500
-  },
-  "daily5": {
-    "itemGrants": ["AthenaDance:EID_Floss"],
-    "price": 5000
-  },
-  "daily6": {
-    "itemGrants": ["AthenaMusicPack:MusicPack_039_Envy"],
+    "itemGrants": ["CID_493_Athena_Commando_F_JurassicArchaeology"],
     "price": 800
   },
+  "daily2": {
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_014_WinterCamo"],
+    "price": 500
+  },
+  "daily3": {
+    "itemGrants": ["AthenaGlider:Glider_Prismatic"],
+    "price": 800
+  },
+  "daily4": {
+    "itemGrants": ["AthenaDance:EID_Zippy"],
+    "price": 1000
+  },
+  "daily5": {
+    "itemGrants": ["AthenaDance:EID_JazzDance"],
+    "price": 500
+  },
+  "daily6": {
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_014_WinterCamo"],
+    "price": 500
+  },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_369_Athena_Commando_F_DevilRock"],
+    "itemGrants": ["AthenaCharacter:CID_034_Athena_Commando_F_Medieval"],
     "price": 2000
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_370_Athena_Commando_M_EvilSuit"],
-    "price": 2000
+    "itemGrants": ["AthenaCharacter:CID_377_Athena_Commando_F_DarkShaman"],
+    "price": 1500
   },
   "featured3": {
-    "itemGrants": ["AthenaDance:EID_KingEagle"],
-    "price": 0
+    "itemGrants": ["AthenaCharacter:CID_512_Athena_Commando_F_CubePaintRedKnight"],
+    "price": 2000
   }
 }
