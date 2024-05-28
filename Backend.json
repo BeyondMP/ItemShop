@@ -1,16 +1,16 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_673_Athena_Commando_F_ArcticCamo_Slate"],
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_363_LollipopTricksterFemale"],
     "price": 800
   },
   "daily2": {
-    "itemGrants": ["AthenaBackpack:BID_270_StreetDemon"],
+    "itemGrants": ["ApolloBackpack:BID_273_AssassinSuitCoin"],
     "price": 200
   },
   "daily3": {
-    "itemGrants": ["AthenaGlider:Glider_ID_209_DonutPlate"],
-    "price": 500
+    "itemGrants": ["Athenglider:Glider_ID_196_CycloneMale"],
+    "price": 0
   },
   "daily4": {
     "itemGrants": ["AthenaDance:EID_ArtGiant"],
