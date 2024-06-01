@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_650_Athena_Commando_F_HolidayPJ_B"],
+    "itemGrants": ["Wrap_078_SlurpJuice"],
     "price": 1200
   },
   "daily2": {
-    "itemGrants": ["AthenaDance:EID_Pump"],
-    "price": 500
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_192_PalmTree"],
+    "price": 800
   },
-  "daily3": {
-    "itemGrants": ["CID_715_Athena_Commando_F_TwinDark"],
-    "price": 1200
+   "daily3": {
+    "itemGrants": ["AthenaGlider:Glider_ID_155_Jellyfish"],
+    "price": 600
   },
   "daily4": {
-    "itemGrants": ["CID_387_Athena_Commando_F_Golf"],
-    "price": 1200
+    "itemGrants": ["AthenaCharacter:CID_453_Athena_Commando_F_GlowBro"],
+    "price": 1500
   },
   "daily5": {
-    "itemGrants": ["AthenaBackpack:BID_308_CyberKarateFemale"],
-    "price": 300
+    "itemGrants": ["AthenaCharacter:CID_480_Athena_Commando_F_Bubblegum"],
+    "price": 1200
   },
   "daily6": {
-    "itemGrants": ["AthenaGlider:Glider_ID_176_BlackMondayCape_4P79K"],
-    "price": 1200
+    "itemGrants": ["AthenaCharacter:CID_455_Athena_Commando_F_Jellyfish"],
+    "price": 1500
   },
   "featured1": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_179_StarWand"],
-    "price": 3500
+    "itemGrants": ["AthenaCharacter:CID_434_Athena_Commando_F_StealthHonor"],
+    "price": 8000
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_642_Athena_Commando_F_ConstellationStar"],
-    "price": 1200
+    "itemGrants": ["AthenaCharacter:CID_512_Athena_Commando_F_CubePaintRedKnight"],
+    "price": 4000
   },
   "featured3": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_363_LollipopTricksterFemale"],
-    "price": 3500
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_020_Keg"],
+    "price": 1200
   }
 }
