@@ -1,12 +1,12 @@
-CID_048_Athena_Commando_F_HolidayGingerbread, 2000
-CID_049_Athena_Commando_M_HolidayGingerbread, 2000
-Pickaxe_ID_092_Bling, 1200
+CID_113_Athena_Commando_M_BlueAce, 6000
+CID_174_Athena_Commando_F_CarbideWhite, 6000
+Pickaxe_ID_085_Wukong, 1500
 na
 na
 na
-CID_461_Athena_Commando_M_DriftSummer, 1200
-BID_435_Constellation, 800
-Wrap_210_Thermal, 500
-CID_464_Athena_Commando_M_Flamingo, 1200
-Glider_ID_058_Shark, 1200
-CID_301_Athena_Commando_M_Rhino, 1500
+Glider_ID_118_Squishy, 800
+CID_333_Athena_Commando_M_Squishy, 1500
+Wrap_223_Fryangles, 500
+CID_674_Athena_Commando_F_HoodieBandit, 1000
+BID_027_Scavenger, 650
+EID_Jaywalking, 800
