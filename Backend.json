@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaDance:EID_CrackshotClock"],
-    "price": 500
+    "itemGrants": ["AthenaCharacter:CID_022_Athena_Commando_F"],
+    "price": 1200
   },
   "daily2": {
-    "itemGrants": ["AthenaDance:EID_CycloneHeadBang"],
-    "price": 2800
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_179_StarWand"],
+    "price": 800
   },
   "daily3": {
-    "itemGrants": ["AthenaGlider:Glider_ID_110_TeriyakiFish"],
+    "itemGrants": ["AthenaCharacter:CID_075_Athena_Commando_F_Stripe"],
     "price": 800
   },
   "daily4": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_085_Wukong"],
-    "price": 1500
+    "itemGrants": ["AthenaGlider:Umbrella_PaperParasol"],
+    "price": 150
   },
   "daily5": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_169_Farme"],
-    "price": 800
+    "itemGrants": ["AthenaItemWrap:Wrap_197_ToxinBubbles"],
+    "price": 500
   },
   "daily6": {
-    "itemGrants": ["AthenaCharacter:CID_493_Athena_Commando_F_JurassicArchaeology,"],
-    "price": 1200
+    "itemGrants": ["AthenaDance:EID_Tidy"],
+    "price": 500
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_478_Athena_Commando_F_WorldCup"],
-    "price": 3500
+    "itemGrants": ["AthenaCharacter:CID_066_Athena_Commando_F_SkiGirl_GER"],
+    "price": 1500
   },
   "featured2": {
-    "itemGrants": ["AthenaItemWrap:Wrap_102_Worldcup2019"],
-    "price": 800
+    "itemGrants": ["AthenaCharacter:CID_067_Athena_Commando_F_SkiGirl_CHN"],
+    "price": 1500
   },
   "featured3": {
-    "itemGrants": ["AthenaGlider:Glider_ID_196_CycloneMale"],
-    "price": 1200
+    "itemGrants": ["AthenaDance:EID_TakeTheL"],
+    "price": 500
   }
 }
