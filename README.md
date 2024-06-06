@@ -1,12 +1,12 @@
-CID_593_Athena_Commando_F_SoccerZombieA, 1500
-BID_101_BlingFemale, 500
-CID_595_Athena_Commando_F_SoccerZombieC, 1500
+CID_367_Athena_Commando_F_Tropical, 2500
+EID_TakeTheL, 4000
+Pickaxe_ID_073_Balloon, 1000
 na
 na
 na
-Pickaxe_ID_216_DemonHunter1H, 800
-Glider_ID_139_EarthDay, 500
-Wrap_158_DevilRock, 500
-Umbrella_AssassinSuit, 200
-EID_CrabDance, 800
-EID_RaiseTheRoof, 200
+CID_658_Athena_Commando_F_ToyMonkey, 1200
+CID_104_Athena_Commando_F_Bunny, 800
+ Pickaxe_ID_035_Prismatic, 800
+Umbrella_Season_08, 500
+Wrap_081_Blackout, 200
+EID_CandyDance, 500
