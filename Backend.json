@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_140_Streetgot"],
-    "price": 800
+    "itemGrants": ["AthenaDance:EID_LlamaBell"],
+    "price": 600
   },
   "daily2": {
-    "itemGrants": ["AthenaDance:EID_CrabDance"],
-    "price": 800
+    "itemGrants": ["AthenaDance:EID_GuitarWalk"],
+    "price": 500
   },
   "daily3": {
-    "itemGrants": ["AthenaGlider:Umbrella_AssassinSuit"],
-    "price": 200
+    "itemGrants": ["AthenaBackpack:BID_167_RedKnightWinterFemale"],
+    "price": 500
   },
   "daily4": {
-    "itemGrants": ["AthenaDance:EID_RaiseTheRoof"],
-    "price": 200
+    "itemGrants": ["AthenaCharacter:CID_294_Athena_Commando_F_RedKnightWinter"],
+    "price": 1500
   },
   "daily5": {
-    "itemGrants": ["AthenaGlider:Glider_ID_139_EarthDay"],
+    "itemGrants": ["AthenaGlider:Glider_ID_119_ReaperFrozen"],
     "price": 500
   },
   "daily6": {
-    "itemGrants": ["AthenaItemWrap:Wrap_158_Devilrock"],
-    "price": 500
+    "itemGrants": ["AthenaCharacter:CID_674_Athena_Commando_F_HoodieBandit"],
+    "price": 1000
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_593_Athena_Commando_F_SoccerZombieA"],
+    "itemGrants": ["AthenaCharacter:CID_170_Athena_Commando_F_Luchador"],
     "price": 1500
   },
   "featured2": {
-    "itemGrants": ["AthenaBackPack:BID_101_BlingFemale"],
-    "price": 500
+    "itemGrants": ["AthenaBackPack:BID_003_RedKnight"],
+    "price": 800
   },
   "featured3": {
-    "itemGrants": ["AthenaCharacter:CID_595_Athena_Commando_F_SoccerZombieC"],
-    "price": 1500
+    "itemGrants": ["AthenaCharacter:CID_089_Athena_Commando_M_RetroGrey"],
+    "price": 2500
   }
 }
