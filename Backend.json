@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_140_Streetgot"],
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_190_Golfclub"],
     "price": 800
   },
   "daily2": {
-    "itemGrants": ["AthenaDance:EID_CrabDance"],
-    "price": 800
+    "itemGrants": ["AthenaDance:EID_KPopDance02"],
+    "price": 1500
   },
   "daily3": {
-    "itemGrants": ["AthenaGlider:Umbrella_AssassinSuit"],
-    "price": 200
+    "itemGrants": ["AthenaGlider:Umbrella_Season_06"],
+    "price": 800
   },
   "daily4": {
-    "itemGrants": ["AthenaDance:EID_RaiseTheRoof"],
-    "price": 200
+    "itemGrants": ["AthenaDance:EID_BaskettballV2"],
+    "price": 800
   },
   "daily5": {
-    "itemGrants": ["AthenaGlider:Glider_ID_139_EarthDay"],
+    "itemGrants": ["AthenaGlider:BID_334_Bannermale"],
     "price": 500
   },
   "daily6": {
-    "itemGrants": ["AthenaItemWrap:Wrap_158_Devilrock"],
-    "price": 500
+    "itemGrants": ["AthenaItemWrap:Wrap_178_Constellation"],
+    "price": 300
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_593_Athena_Commando_F_SoccerZombieA"],
+    "itemGrants": ["AthenaCharacter:CID_076_Athena_Commando_F_Sup"],
     "price": 1500
   },
   "featured2": {
-    "itemGrants": ["AthenaBackPack:BID_101_BlingFemale"],
-    "price": 500
+    "itemGrants": ["AthenaCharacter:CID_136_Athena_Commando_M_StreetBasketball"],
+    "price": 1500
   },
   "featured3": {
-    "itemGrants": ["AthenaCharacter:CID_595_Athena_Commando_F_SoccerZombieC"],
+    "itemGrants": ["AthenaCharacter:CID_137_Athena_Commando_F_StreetBasketball"],
     "price": 1500
   }
 }
