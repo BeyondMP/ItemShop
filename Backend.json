@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_497_Athena_Commando_F_WildWest"],
-    "price": 1200
+    "itemGrants": ["AthenaCharacter:CID_453_Athena_Commando_F_GlowBro"],
+    "price": 1500
   },
   "daily2": {
-    "itemGrants": ["AthenaDance:EID_WaveDance"],
-    "price": 800
-  },
-  "daily3": {
-    "itemGrants": ["AthenaGlider:Glider_ID_125_Bandolier"],
+    "itemGrants": ["AthenaCharacter:CID_480_Athena_Commando_F_Bubblegum"],
     "price": 1200
   },
+  "daily3": {
+    "itemGrants": ["AthenaGlider:Glider_ID_155_Jellyfish"],
+    "price": 800
+  },
   "daily4": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_339_CODSquadHoodie"],
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_192_PalmTree"],
     "price": 800
   },
   "daily5": {
-    "itemGrants": ["AthenaCharacter:CID_431_Athena_Commando_F_StormPilot"],
-    "price": 1200
+    "itemGrants": ["AthenaItemWrap:Wrap_018_Magma"],
+    "price": 800
   },
   "daily6": {
-    "itemGrants": ["AthenaItemWrap:Wrap_132_BarbequeLarry"],
-    "price": 500
+    "itemGrants": ["AthenaItemWrap:Wrap_078_SlurpJuice"],
+    "price": 800
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_675_Athena_Commando_M_TheGoldenSkeleton"],
-    "price": 2000
+    "itemGrants": ["AthenaCharacter:CID_434_Athena_Commando_F_StealthHonor"],
+    "price": 6000
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_653_Athena_Commando_F_UglySweaterFrozen"],
+    "itemGrants": ["AthenaCharacter:CID_512_Athena_Commando_F_CubePaintRedKnight"],
     "price": 2000
   },
   "featured3": {
-    "itemGrants": ["AthenaDance:EID_TacoTimeDance"],
-    "price": 800
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_020_Keg"],
+    "price": 1200
   }
 }
