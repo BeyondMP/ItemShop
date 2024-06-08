@@ -2,50 +2,50 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_027_Athena_Commando_F"
+            "AthenaDance:EID_TourBus"
         ],
-        "price": 1200
+        "price": 300
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_224_Butterfly"
-        ],
-        "price": 500
-    },
-    "daily3": {
-        "itemGrants": [
-            "AthenaDance:EID_KEagle"
-        ],
-        "price": 500
-    },
-    "daily4": {
-        "itemGrants": [
-            "AthenaDance:EID_Everytime"
-        ],
-        "price": 700
-    },
-    "daily5": {
-        "itemGrants": [
-            "AthenaCharacter:CID_356_Athena_Commando_F_Farmer"
+            "AthenaPickaxe:Pickaxe_ID_160_IceCream"
         ],
         "price": 800
     },
+    "daily3": {
+        "itemGrants": [
+            "AthenaDance:CycloneHeadBang"
+        ],
+        "price": 300
+    },
+    "daily4": {
+        "itemGrants": [
+            "AthenaDance:EID_BillyBounce"
+        ],
+        "price": 500
+    },
+    "daily5": {
+        "itemGrants": [
+            "AthenaBackpack:BID_468_Cyclone"
+        ],
+        "price": 200
+    },
     "daily6": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_118_Squishy"
+            "AthenaCharacter:CID_369_Athena_Commando_F_DevilRock"
         ],
         "price": 300
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_547_Athena_Commando_F_Meteorwoman"
+            "AthenaCharacter:CID_528_Athena_Commando_M_BlackMondayHouston_7DGBT"
         ],
-        "price": 2500
+        "price": 2000
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:EID_LetsBegin_Beyond"
+            "AthenaCharacter:CID_466_Athena_Commando_M_WeirdObjectsCreature"
         ],
-        "price": 2000
+        "price": 1200
     }
 }
