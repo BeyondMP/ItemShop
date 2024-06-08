@@ -1,12 +1,12 @@
-CID_547_Athena_Commando_F_Meteorwoman, 2500
-EID_LetsBegin_Beyond, 2000
+CID_528_Athena_Commando_M_BlackMondayHouston_7DGBT, 2000
+CID_466_Athena_Commando_M_WeirdObjectsCreature, 1200
+EID_TourBus, 300
 na
 na
 na
 na
-CID_027_Athena_Commando_F, 1200
-Pickaxe_ID_224_Butterfly, 500
-EID_KEagle, 500
-EID_Everytime, 700
-CID_356_Athena_Commando_F_Farmer, 800
-Glider_ID_118_Squishy, 300
+Pickaxe_ID_160_IceCream, 800
+EID_CycloneHeadBang, 300
+EID_BillyBounce, 500
+BID_468_Cyclone, 200
+CID_369_Athena_Commando_F_DevilRock, 1200
