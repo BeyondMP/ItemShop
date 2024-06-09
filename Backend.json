@@ -2,50 +2,50 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_027_Athena_Commando_F"
+            "AthenaCharacter:CID_315_Athena_Commando_M_TeriyakiFish"
         ],
-        "price": 1200
+        "price": 800
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_224_Butterfly"
+            "AthenaGlider:Glider_ID_104_Math"
         ],
-        "price": 500
+        "price": 1200
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_KEagle"
+            "AthenaDance:EID_SquishyDance"
         ],
-        "price": 500
+        "price": 1200
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_Everytime"
+            "AthenaPickaxe:Pickaxe_ID_389_DonutPlate1H"
         ],
-        "price": 700
+        "price": 1200
     },
     "daily5": {
         "itemGrants": [
-            "AthenaCharacter:CID_356_Athena_Commando_F_Farmer"
+            "AthenaPickaxe:Pickaxe_ID_074_SharpDresser"
         ],
         "price": 800
     },
     "daily6": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_118_Squishy"
+            "AthenaDance:EID_ThighSlapper"
         ],
-        "price": 300
+        "price": 500
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_547_Athena_Commando_F_Meteorwoman"
+            "AthenaCharacter:CID_688_Athena_Commando_F_AgentRogue"
         ],
-        "price": 2500
+        "price": 1200
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:EID_LetsBegin_Beyond"
+            "AthenaCharacter:CID_110_Athena_Commando_F_CircuitBreaker"
         ],
-        "price": 2000
+        "price": 1200
     }
 }
