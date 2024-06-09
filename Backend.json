@@ -1,51 +1,57 @@
 {
-    "//": "BR Item Shop Config",
-    "daily1": {
-        "itemGrants": [
-            "AthenaCharacter:CID_027_Athena_Commando_F"
-        ],
-        "price": 1200
-    },
-    "daily2": {
-        "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_224_Butterfly"
-        ],
-        "price": 500
-    },
-    "daily3": {
-        "itemGrants": [
-            "AthenaDance:EID_KEagle"
-        ],
-        "price": 500
-    },
-    "daily4": {
-        "itemGrants": [
-            "AthenaDance:EID_Everytime"
-        ],
-        "price": 700
-    },
-    "daily5": {
-        "itemGrants": [
-            "AthenaCharacter:CID_356_Athena_Commando_F_Farmer"
-        ],
-        "price": 800
-    },
-    "daily6": {
-        "itemGrants": [
-            "AthenaGlider:Glider_ID_118_Squishy"
-        ],
-        "price": 300
-    },
-    "featured1": {
-        "itemGrants": [
-            "AthenaCharacter:CID_547_Athena_Commando_F_Meteorwoman"
-        ],
-        "price": 2500
-    },
-    "featured2": {
-        "itemGrants": [
-            "AthenaCharacter:EID_LetsBegin_Beyond"
-        ],
-        "price": 2000
-    }
+  "//": "BR Item Shop Config",
+  "daily1": {
+    "itemGrants": [
+        "AthenaCharacter:CID_468_Athena_Commando_F_TennisWhite"
+    ],
+    "price": 800
+  },
+  "daily2": {
+    "itemGrants": [
+        "AthenaPickaxe:Pickaxe_ID_190_GolfClub"
+    ],
+    "price": 500
+  },
+  "daily3": {
+    "itemGrants": [
+        "AthenaCharacter:CID_075_Athena_Commando_F_Stripe"
+    ],
+    "price": 800
+  },
+  "daily4": {
+    "itemGrants": [
+        "AthenaGlider:Umbrella_PaperParasol"
+    ],
+    "price": 150
+  },
+  "daily5": {
+    "itemGrants": [
+        "AthenaItemWrap:Wrap_197_ToxinBubbles"
+    ],
+    "price": 500
+  },
+  "daily6": {
+    "itemGrants": [
+        "AthenaDance:EID_Tidy"
+    ],
+    "price": 500
+  },
+  "featured1": {
+    "itemGrants": [
+        "AthenaCharacter:CID_066_Athena_Commando_F_SkiGirl_GER"
+    ],
+    "price": 1500
+  },
+  "featured2": {
+    "itemGrants": [
+        "AthenaCharacter:CID_067_Athena_Commando_F_SkiGirl_CHN"
+    ],
+    "price": 1500
+  },
+  "featured3": {
+    "itemGrants": [
+        "AthenaDance:EID_WalkieWalk"
+    ],
+    "price": 500
+  }
 }
