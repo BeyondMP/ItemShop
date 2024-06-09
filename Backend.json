@@ -2,50 +2,56 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_027_Athena_Commando_F"
+            "CID_335_Athena_Commando_F_Scrapyard"
         ],
         "price": 1200
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_224_Butterfly"
+            "CID_423_Athena_Commando_F_Painter"
         ],
-        "price": 500
+        "price": 1500
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_KEagle"
+            "EID_Bendy"
         ],
         "price": 500
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_Everytime"
+            "Pickaxe_ID_138_Gnome"
         ],
-        "price": 700
+        "price": 500
     },
     "daily5": {
         "itemGrants": [
-            "AthenaCharacter:CID_356_Athena_Commando_F_Farmer"
+            "Pickaxe_ID_140_StreetGoth"
         ],
         "price": 800
     },
     "daily6": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_118_Squishy"
+            "Glider_ID_095_Witch"
         ],
         "price": 300
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_547_Athena_Commando_F_Meteorwoman"
+            "CID_651_Athena_Commando_F_HolidayPJ_C"
         ],
-        "price": 2500
+        "price": 1000
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:EID_LetsBegin_Beyond"
+            "EID_NeverGonna"
         ],
-        "price": 2000
+        "price": 800
+    },
+    "featured3": {
+        "itemGrants": [
+            "BID_270_StreetDemon"
+        ],
+        "price": 500
     }
 }
