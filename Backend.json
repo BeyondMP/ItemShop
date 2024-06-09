@@ -2,50 +2,51 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_027_Athena_Commando_F"
-        ],
-        "price": 1200
-    },
-    "daily2": {
-        "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_224_Butterfly"
-        ],
-        "price": 500
-    },
-    "daily3": {
-        "itemGrants": [
-            "AthenaDance:EID_KEagle"
-        ],
-        "price": 500
-    },
-    "daily4": {
-        "itemGrants": [
-            "AthenaDance:EID_Everytime"
-        ],
-        "price": 700
-    },
-    "daily5": {
-        "itemGrants": [
-            "AthenaCharacter:CID_356_Athena_Commando_F_Farmer"
+            "AthenaCharacter:CID_545_Athena_Commando_F_SushiNinja"
         ],
         "price": 800
     },
+    "daily2": {
+        "itemGrants": [
+            "AthenaCharacter:CID_479_Athena_Commando_F_Davinci"
+        ],
+        "price": 2000
+    },
+    "daily3": {
+        "itemGrants": [
+            "AthenaCharacter:CID_608_Athena_Commando_F_ModernWitch"
+        ],
+        "price": 1500
+    },
+    "daily4": {
+        "itemGrants": [
+            "CID_606_Athena_Commando_F_JetSki"
+        ],
+        "price": 1200
+    },
+    "daily5": {
+        "itemGrants": [
+            "AthenaCharacter:CID_434_Athena_Commando_F_StealthHonor"
+        ],
+        "price": 3000
+    },
     "daily6": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_118_Squishy"
+            "AthenaCharacter:CID_033_Athena_Commando_F_Medieval"
         ],
-        "price": 300
+        "price": 1200
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_547_Athena_Commando_F_Meteorwoman"
+            "Athenadance:EID_CrackshotClock"
         ],
-        "price": 2500
+        "price": 500
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:EID_LetsBegin_Beyond"
+            "Athenapickaxe:Pickaxe_ID_363_LollipopTricksterFemale"
         ],
-        "price": 2000
+        "price": 800
+        
     }
 }
