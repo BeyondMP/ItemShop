@@ -2,50 +2,58 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_027_Athena_Commando_F"
-        ],
-        "price": 1200
-    },
-    "daily2": {
-        "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_224_Butterfly"
+            "AthenaWrap:Wrap_003_AnodizedRed"
         ],
         "price": 500
     },
+    "daily2": {
+        "itemGrants": [
+            "AthenaPickaxe:Pickaxe_ID_058_Basketball"
+        ],
+        "price": 1200
+    },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_KEagle"
+            "AthenaDance:EID_BasketballV2"
         ],
         "price": 500
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_Everytime"
+            "AthenaBackpack:BID_120_Werewolf "
         ],
-        "price": 700
+        "price": 1000
     },
     "daily5": {
         "itemGrants": [
-            "AthenaCharacter:CID_356_Athena_Commando_F_Farmer"
+            "AthenaCharacter:CID_734_Athena_Commando_F_BannerRed"
         ],
         "price": 800
     },
     "daily6": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_118_Squishy"
+            "AthenaGlider:Umbrella_Season_10"
         ],
-        "price": 300
+        "price": 500
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_547_Athena_Commando_F_Meteorwoman"
+            "AthenaCharacter:CID_137_Athena_Commando_F_StreetBasketball"
         ],
-        "price": 2500
+        "price": 1500
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:EID_LetsBegin_Beyond"
+            "AthenaCharacter:CID_136_Athena_Commando_M_StreetBasketball"
         ],
-        "price": 2000
-    }
-}
+         "price": 1500
+    },
+    "featured3": {
+        "itemGrants": [
+            "AthenaDance:EID_TakeTheL"
+     ],
+         "price": 2500
+            
+       
+
+    
