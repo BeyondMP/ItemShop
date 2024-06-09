@@ -1,51 +1,39 @@
 {
-    "//": "BR Item Shop Config",
-    "daily1": {
-        "itemGrants": [
-            "AthenaCharacter:CID_027_Athena_Commando_F"
-        ],
-        "price": 1200
-    },
-    "daily2": {
-        "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_224_Butterfly"
-        ],
-        "price": 500
-    },
-    "daily3": {
-        "itemGrants": [
-            "AthenaDance:EID_KEagle"
-        ],
-        "price": 500
-    },
-    "daily4": {
-        "itemGrants": [
-            "AthenaDance:EID_Everytime"
-        ],
-        "price": 700
-    },
-    "daily5": {
-        "itemGrants": [
-            "AthenaCharacter:CID_356_Athena_Commando_F_Farmer"
-        ],
-        "price": 800
-    },
-    "daily6": {
-        "itemGrants": [
-            "AthenaGlider:Glider_ID_118_Squishy"
-        ],
-        "price": 300
-    },
-    "featured1": {
-        "itemGrants": [
-            "AthenaCharacter:CID_547_Athena_Commando_F_Meteorwoman"
-        ],
-        "price": 2500
-    },
-    "featured2": {
-        "itemGrants": [
-            "AthenaCharacter:EID_LetsBegin_Beyond"
-        ],
-        "price": 2000
-    }
+  "//": "BR Item Shop Config",
+  "daily1": {
+    "itemGrants": ["Wrap_018_Magma"],
+    "price": 800
+  },
+  "daily2": {
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_192_PalmTree"],
+    "price": 800
+  },
+   "daily3": {
+    "itemGrants": ["AthenaGlider:Glider_ID_155_Jellyfish"],
+    "price": 800
+  },
+  "daily4": {
+    "itemGrants": ["AthenaCharacter:CID_453_Athena_Commando_F_GlowBro"],
+    "price": 1500
+  },
+  "daily5": {
+    "itemGrants": ["AthenaCharacter:CID_480_Athena_Commando_F_Bubblegum"],
+    "price": 1200
+  },
+  "daily6": {
+    "itemGrants": ["AthenaDance:EID_Fresh"],
+    "price": 800
+  },
+  "featured1": {
+    "itemGrants": ["AthenaCharacter:CID_736_Athena_Commando_F_DonutDish"],
+    "price": 1500
+  },
+  "featured2": {
+    "itemGrants": ["AthenaCharacter:CID_737_Athena_Commando_F_DonutPlate"],
+    "price": 1500
+  },
+  "featured3": {
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_020_Keg"],
+    "price": 1200
+  }
 }
