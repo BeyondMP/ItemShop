@@ -1,12 +1,12 @@
-CID_547_Athena_Commando_F_Meteorwoman, 2500
-EID_LetsBegin_Beyond, 2000
+CID_104_Athena_Commando_F_Bunny, 1500
+CID_103_Athena_Commando_M_Bunny, 1500
+EID_TakeTheL, 2500
 na
 na
 na
-na
-CID_027_Athena_Commando_F, 1200
-Pickaxe_ID_224_Butterfly, 500
-EID_KEagle, 500
-EID_Everytime, 700
-CID_356_Athena_Commando_F_Farmer, 800
-Glider_ID_118_Squishy, 300
+HalloweenScythe, 1200
+BID_273_AssassinSuitCoin, 500
+Umbrella_Season_09, 800
+Wrap_003_AnodizedRed, 300
+EID_BillyBounce, 800
+Pickaxe_ID_190_GolfClub, 800
