@@ -2,50 +2,50 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_027_Athena_Commando_F"
+            "AthenaCharacter:CID_725_Athena_Commando_F_AgentX"
         ],
-        "price": 1200
+        "price": 800
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_224_Butterfly"
+            "AthenaPickaxe:Pickaxe_ID_202_AshtonBoardwalky"
         ],
-        "price": 500
+        "price": 800
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_KEagle"
+            "AthenaDance:EID_BasketballV2"
         ],
         "price": 500
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_Everytime"
+            "AthenaDance:EID_TorchSnuffer"
         ],
-        "price": 700
+        "price": 500
     },
     "daily5": {
         "itemGrants": [
-            "AthenaCharacter:CID_356_Athena_Commando_F_Farmer"
+            "AthenaCharacter:CID_734_Athena_Commando_F_BannerRed"
         ],
         "price": 800
     },
     "daily6": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_118_Squishy"
+            "AthenaGlider:Glider_ID_152_DemonHunter"
         ],
-        "price": 300
+        "price": 800
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_547_Athena_Commando_F_Meteorwoman"
+            "AthenaCharacter:CID_530_Athena_Commando_F_BlackMonday_1BV6J"
         ],
-        "price": 2500
+        "price": 2000
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:EID_LetsBegin_Beyond"
+            "AthenaCharacter:CID_170_Athena_Commando_F_Luchador"
         ],
-        "price": 2000
+        "price": 1500
     }
 }
