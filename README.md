@@ -1,12 +1,12 @@
-CID_547_Athena_Commando_F_Meteorwoman, 2500
-EID_LetsBegin_Beyond, 2000
+CID_717_Athena_Commando_F_BlueFlames, 1500
+CID_716_Athena_Commando_M_BlueFlames, 1500
+Pickaxe_ID_370_BlueFlames, 800
 na
 na
 na
-na
-CID_027_Athena_Commando_F, 1200
-Pickaxe_ID_224_Butterfly, 500
-EID_KEagle, 500
-EID_Everytime, 700
-CID_356_Athena_Commando_F_Farmer, 800
-Glider_ID_118_Squishy, 300
+Wrap_078_SlurpJuice, 800
+CID_532_Athena_Commando_F_Punchy, 1200
+CID_123_Athena_Commando_F_Metal, 1200
+Pickaxe_ID_049_Metal, 800
+CID_216_Athena_Commando_F_Medic, 1500
+Glider_ID_073_Medic, 1200
