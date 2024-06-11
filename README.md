@@ -1,4 +1,4 @@
-CID_460_Athena_Commando_F_BriteBomberSummer, 1200
+CID_090_Athena_Commando_M_Tactical, 0
 CID_461_Athena_Commando_M_DriftSummer, 1200
 BID_304_Duck, 0
 Pickaxe_ID_073_Balloon, 800
