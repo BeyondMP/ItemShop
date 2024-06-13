@@ -1,12 +1,12 @@
-CID_736_Athena_Commando_F_DonutDish, 1500
-CID_737_Athena_Commando_F_DonutPlate, 1500
-Pickaxe_ID_020_Keg, 1200
+CID_704_Athena_Commando_F_LollipopTrickster, 1500
+CID_631_Athena_Commando_M_GalileoKayak_VXLDB, 1500
+Pickaxe_ID_074_SharpDresser, 800
 na
 na
 na
-Wrap_018_Magma, 800
-Pickaxe_ID_192_PalmTree, 500
-Glider_ID_155_Jellyfish, 800
-EID_Popcorn, 800
-CID_453_Athena_Commando_F_GlowBro, 1500
-CID_480_Athena_Commando_F_Bubblegum, 1200
+Glider_ID_206_Donut, 1200
+BID_229_LuckyRiderMale, 500
+EID_DreamFeet, 500
+CID_415_Athena_Commando_F_AssassinSuit, 1200
+Pickaxe_ID_015_HolidayCandyCane, 1800
+EID_ElectroShuffle, 1200
