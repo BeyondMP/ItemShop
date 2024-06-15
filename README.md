@@ -1,12 +1,12 @@
-CID_063_Athena_Commando_F_SkiGirl_CAN, 1500
-Pickaxe_ID_190_GolfClub, 500
-Glider_ID_175_StreetFashionRed, 500
+CID_399_Athena_Commando_F_AshtonBoardwalk, 1500
+Pickaxe_ID_202_AshtonBoardwalk, 1500
+CID_748_Athena_Commando_F_Hitman, 800
 na
 na
 na
-CID_021_Athena_Commando_F, 1200
-CID_734_Athena_Commando_F_BannerRed, 800
-Pickaxe_ID_039_TacticalBlack, 800
-EID_KPopDance01, 800
-EID_JazzDance, 500
-Wrap_065_AssassinSuit01, 600
+Pickaxe_ID_134_Snowman, 500
+Umbrella_Snowflake, 800
+EID_WindmillFloss, 500
+EID_EngagedWalk, 200
+BID_191_WinterGhoulMale, 500
+CID_317_Athena_Commando_M_WinterGhoul, 1500
