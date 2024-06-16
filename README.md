@@ -1,12 +1,12 @@
-CID_399_Athena_Commando_F_AshtonBoardwalk, 1500
-Pickaxe_ID_202_AshtonBoardwalk, 1000
-CID_400_Athena_Commando_M_AshtonSaltLake, 1200
-Glider_ID_142_AshtonSaltLake, 800
+CID_760_Athena_Commando_F_NeonTightSuit, 1500
+CID_748_Athena_Commando_F_Hitman, 1000
+Pickaxe_ID_179_StarWand, 800
 na
 na
-Pickaxe_ID_134_Snowman, 500
-Umbrella_Snowflake, 400
-EID_WindmillFloss, 500
-EID_EngagedWalk, 200
-BID_191_WinterGhoulMale, 400
-CID_317_Athena_Commando_M_WinterGhoul, 1500
+na
+EID_WalkieWalk, 500
+Pickaxe_ID_283_CODSquadPlaidMale, 500
+CID_370_Athena_Commando_M_EvilSuit, 2000
+BID_244_DarkVikingFire, 600
+Wrap_016_CuddleTeam, 0
+EID_Basketball, 1000
