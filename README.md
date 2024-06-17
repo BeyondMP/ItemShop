@@ -1,6 +1,6 @@
-CID_048_Athena_Commando_F_HolidayGingerbread, 1500
-CID_049_Athena_Commando_M_HolidayGingerbread, 1500
-Pickaxe_ID_329_GingerbreadCookie1H, 0
+CID_434_Athena_Commando_F_StealthHonor, 4000
+CID_745_Athena_Commando_M_RavenQuill, 1100
+ Pickaxe_ID_343_HoodieBanditFemale, 800
 na
 na
 na
