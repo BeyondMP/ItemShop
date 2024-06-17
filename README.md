@@ -1,12 +1,12 @@
-CID_048_Athena_Commando_F_HolidayGingerbread, 1500
-CID_049_Athena_Commando_M_HolidayGingerbread, 1500
-Pickaxe_ID_329_GingerbreadCookie1H, 0
+CID_497_Athena_Commando_F_WildWest, 1200
+CID_498_Athena_Commando_M_WildWest, 1200
+Pickaxe_ID_114_BadassCowboyCowSkull, 800
 na
 na
 na
-BID_026_Brite, 600
-Wrap_016_CuddleTeam, 300
-EID_RockPaperScissors, 200
-EID_CrabDance, 500
-Pickaxe_Flamingo, 800
-CID_044_Athena_Commando_F_SciPop, 1200
+Pickaxe_ID_179_StarWand, 800
+Pickaxe_ID_014_WinterCamo, 500
+EID_TPose, 200
+EID_Twist, 500
+Pickaxe_ID_363_LollipopTricksterFemale, 800
+CID_704_Athena_Commando_F_LollipopTrickster, 1500
