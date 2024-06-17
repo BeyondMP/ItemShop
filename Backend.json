@@ -2,56 +2,56 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_044_Athena_Commando_F_SciPop"
+            "AthenaCharacter:CID_395_Athena_Commando_F_ShatterFly"
         ],
         "price": 1200
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_Flamingo"
+            "AthenaGlider:Glider_ID_095_Witch"
         ],
         "price": 800
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_CrabDance"
+            "AthenaDance:EID_Grooving"
         ],
         "price": 500
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_RockPaperScissors"
+            "AthenaDance:EID_ElectroShuffle_V2"
         ],
-        "price": 200
+        "price": 800
     },
     "daily5": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_016_CuddleTeam"
+            "AthenaPickaxe:Pickaxe_ID_224_Butterfly"
         ],
-        "price": 300
+        "price": 800
     },
     "daily6": {
         "itemGrants": [
-            "AthenaBackpack:BID_026_Brite"
+            "AthenaBackpack:BID_256_ShatterFly"
         ],
-        "price": 600
+        "price": 400
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_048_Athena_Commando_F_HolidayGingerbread", "AthenaBackpack:BID_187_GingerbreadFemale"
+            "AthenaCharacter:CID_300_Athena_Commando_F_Angel", "AthenaBackpack:BID_178_Angel"
         ],
         "price": 1500
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_049_Athena_Commando_M_HolidayGingerbread", "AthenaBackpack:PetCarrier_006_Gingerbread"
+            "AthenaCharacter:CID_318_Athena_Commando_M_DemonC", "AthenaBackpack:BID_179_DemonMale"
         ],
         "price": 1500
     },
     "featured3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_329_GingerbreadCookie1H"
+            "AthenaPickaxe:Pickaxe_ID_144_Angel"
         ],
-        "price": 0
+        "price": 800
     }
 }
