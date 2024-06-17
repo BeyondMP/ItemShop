@@ -2,56 +2,57 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_044_Athena_Commando_F_SciPop"
+            "AthenaCharacter:CID_452_Athena_Commando_F_CyberFu"
         ],
         "price": 1200
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_Flamingo"
+            "AthenaCharacter:CID_715_Athena_Commando_F_TwinDark"
         ],
-        "price": 800
+        "price": 1200
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_CrabDance"
+            "AthenaGlider:Glider_ID_209_DonutPlate"
         ],
-        "price": 500
+        "price": 1500
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_RockPaperScissors"
+            "AthenaPickaxe:Pickaxe_ID_389_DonutPlate1H"
         ],
-        "price": 200
+        "price": 1200
     },
     "daily5": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_016_CuddleTeam"
+            "AthenaCharacter:CID_477_Athena_Commando_F_SpaceSuit"
         ],
-        "price": 300
+        "price": 1200
     },
     "daily6": {
         "itemGrants": [
-            "AthenaBackpack:BID_026_Brite"
+            "AthenaEmote:EID_Zippy"
         ],
         "price": 600
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_048_Athena_Commando_F_HolidayGingerbread", "AthenaBackpack:BID_187_GingerbreadFemale"
+            "AthenaCharacter:CID_648_Athena_Commando_F_MsAlpine", "AthenaBackpack:BID_480_Donut"
         ],
         "price": 1500
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_049_Athena_Commando_M_HolidayGingerbread", "AthenaBackpack:PetCarrier_006_Gingerbread"
+            "AthenaCharacter:CID_605_Athena_Commando_M_TourBus", "AthenaBackpack:BID_402_TourBus"
         ],
-        "price": 1500
+        "price": 2000
     },
     "featured3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_329_GingerbreadCookie1H"
+            "AthenaPickaxe:Pickaxe_ID_327_GalileoKayak_50NFG"
         ],
-        "price": 0
+        "price": 1500
     }
 }
+
