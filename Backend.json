@@ -2,56 +2,56 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_044_Athena_Commando_F_SciPop"
+            "Athenabackpack:BID_413_ForestQueen"
         ],
-        "price": 1200
+        "price": 300
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_Flamingo"
+            "Athenacharacter:CID_481_Athena_Commando_F_Geode"
         ],
-        "price": 800
+        "price": 1200
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_CrabDance"
+            "AthenaDance:EID_Galileo1_B3EX6"
         ],
-        "price": 500
+        "price": 0
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_RockPaperScissors"
+            "AthenaDance:EID_BuildASnowman"
         ],
-        "price": 200
+        "price": 500
     },
     "daily5": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_016_CuddleTeam"
+            "Athenapickaxe:Pickaxe_ID_327_GalileoKayak_50NFG"
         ],
         "price": 300
     },
     "daily6": {
         "itemGrants": [
-            "AthenaBackpack:BID_026_Brite"
+            "Athenaglider:Glider_ID_174_SleepyTime"
         ],
         "price": 600
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_048_Athena_Commando_F_HolidayGingerbread", "AthenaBackpack:BID_187_GingerbreadFemale"
+            "Athenapickaxe:Pickaxe_ID_363_LollipopTricksterFemale"
         ],
-        "price": 1500
+        "price": 800
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_049_Athena_Commando_M_HolidayGingerbread", "AthenaBackpack:PetCarrier_006_Gingerbread"
+            "AthenaCharacter:CID_479_Athena_Commando_F_Davinci"
         ],
-        "price": 1500
+        "price": 2500
     },
     "featured3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_329_GingerbreadCookie1H"
+            "CID_434_Athena_Commando_F_StealthHonor"
         ],
-        "price": 0
+        "price": 2000
     }
 }
