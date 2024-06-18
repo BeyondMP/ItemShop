@@ -2,56 +2,56 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_216_Athena_Commando_F_Medic"
+            "AthenaPickaxe:Pickaxe_ID_015_HolidayCandyCane"
         ],
         "price": 1500
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_074_SharpDresser"
-        ],
-        "price": 800
-    },
-    "daily3": {
-        "itemGrants": [
-            "AthenaDance:EID_TPose"
-        ],
-        "price": 200
-    },
-    "daily4": {
-        "itemGrants": [
-            "AthenaDance:EID_Twist"
-        ],
-        "price": 500
-    },
-    "daily5": {
-        "itemGrants": [
-            "AthenaItemWrap:Wrap_045_Angel"
+            "AthenaCharacter:CID_065_Athena_Commando_F_SkiGirl_FRA"
         ],
         "price": 300
     },
-    "daily6": {
+    "daily3": {
         "itemGrants": [
-            "AthenaCharacter:CID_704_Athena_Commando_F_LollipopTrickster"
+            "AthenaCharacter:CID_149_Athena_Commando_F_SoccerGirlB"
         ],
         "price": 1500
     },
+    "daily4": {
+        "itemGrants": [
+            "AthenaCharacter:CID_631_Athena_Commando_M_GalileoKayak_VXLDB"
+        ],
+        "price": 1500
+    },
+    "daily5": {
+        "itemGrants": [
+            "CharacterDance:EID_StatuePose"
+        ],
+        "price": 200
+    },
+    "daily6": {
+        "itemGrants": [
+            "CharacterPickaxe:HalloweenScythe"
+        ],
+        "price": 800
+    },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_497_Athena_Commando_F_WildWest"
+            "AthenaCharacter:CID_530_Athena_Commando_F_BlackMonday_1BV6J"
         ],
-        "price": 1200
+        "price": 1500
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_498_Athena_Commando_M_WildWest"
+            "AthenaDance:EID_IceKing"
         ],
-        "price": 1200
+        "price": 300
     },
     "featured3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_114_BadassCowboyCowSkull"
+            "AthenaCharacter:CID_149_Athena_Commando_F_SoccerGirlB"
         ],
-        "price": 800
+        "price": 1200
     }
 }
