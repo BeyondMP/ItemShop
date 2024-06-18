@@ -2,55 +2,55 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_216_Athena_Commando_F_Medic"
+            "AthenaCharacter:CID_744_Athena_Commando_F_DuckHero"
         ],
         "price": 1500
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_074_SharpDresser"
+            "AthenaItemWrap:Wrap_234_GlowVortex"
         ],
         "price": 800
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_TPose"
-        ],
-        "price": 200
-    },
-    "daily4": {
-        "itemGrants": [
-            "AthenaDance:EID_Twist"
+            "AthenaDance:EID_IndigoApple"
         ],
         "price": 500
     },
+    "daily4": {
+        "itemGrants": [
+            "AthenaDance:EID_Shinobi"
+        ],
+        "price": 800
+    },
     "daily5": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_045_Angel"
+            "AthenaPickaxe:Pickaxe_ID_155_ValentinesFrozen"
         ],
-        "price": 300
+        "price": 1000
     },
     "daily6": {
         "itemGrants": [
-            "AthenaCharacter:CID_704_Athena_Commando_F_LollipopTrickster"
+            "AthenaCharacter:CID_715_Athena_Commando_F_TwinDark"
         ],
         "price": 1500
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_497_Athena_Commando_F_WildWest"
+            "AthenaCharacter:CID_530_Athena_Commando_F_BlackMonday_1BV6J"
         ],
-        "price": 1200
+        "price": 2000
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_498_Athena_Commando_M_WildWest"
+            "AthenaDance:EID_BlackMondayFemale_6HO4L"
         ],
         "price": 1200
     },
     "featured3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_114_BadassCowboyCowSkull"
+            "AthenaPickaxe:BID_273_AssassinSuitCoin"
         ],
         "price": 800
     }
