@@ -1,12 +1,12 @@
-CID_292_Athena_Commando_F_Dieselpunk02, 1000
-Glider_ID_076_DieselPunk, 800
-MusicPack_FMD, 2500
-MusicPack_JennifersBody, 2500
+CID_170_Athena_Commando_F_Luchador, 1200
+Glider_ID_206_Donut, 1200
+Pickaxe_ID_140_StreetGoth, 800
 na
 na
-CID_087_Athena_Commando_F_RedSilk, 800
-Pickaxe_ID_166_Shiny, 800
-EID_SkeletonDance, 500
-EID_NeverGonna, 500
-BID_273_AssassinSuitCoin, 1000
-Glider_ID_104_Math, 800
+na
+CID_674_Athena_Commando_F_HoodieBandit, 1000
+Pickaxe_ID_179_StarWand, 800
+EID_BillyBounce, 500
+EID_EasternBloc, 800
+CID_066_Athena_Commando_F_SkiGirl_GER, 1500
+BID_011_SkiDude_GER, 400
