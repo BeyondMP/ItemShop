@@ -2,56 +2,58 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_087_Athena_Commando_F_RedSilk"
+            "AthenaCharacter:CID_017_Athena_Commando_M"
         ],
-        "price": 800
+        "price": 5000
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_166_Shiny"
-        ],
-        "price": 800
-    },
-    "daily3": {
-        "itemGrants": [
-            "AthenaDance:EID_SkeletonDance"
+            "AthenaGlider:Glider_ID_001"
         ],
         "price": 500
     },
+    "daily3": {
+        "itemGrants": [
+            "AthenaDance:EID_Fresh"
+        ],
+        "price": 1500
+    },
     "daily4": {
+        "itemGrants": [
+            "AthenaPickaxe:Pickaxe_Lockjaw"
+        ],
+        "price": 2500
+    },
+    "daily5": {
+        "itemGrants": [
+            "AthenaBackpack:BID_072_VikingMale"
+        ],
+        "price": 1000
+    },
+    "daily6": {
+        "itemGrants": [
+            "AthenaCharacter:CID_041_Athena_Commando_F_District"
+        ],
+        "price": 800
+    },
+    "featured1": {
+        "itemGrants": [
+            "AthenaDance:EID_PartyJazzWigglyDance"
+        ],
+        "price": 500
+    },
+    "featured2": {
         "itemGrants": [
             "AthenaDance:EID_NeverGonna"
         ],
         "price": 500
     },
-    "daily5": {
-        "itemGrants": [
-            "AthenaGlider:Glider_ID_104_Math"
-        ],
-        "price": 800
-    },
-    "daily6": {
-        "itemGrants": [
-            "AthenaBackpack:BID_273_AssassinSuitCoin"
-        ],
-        "price": 1000
-    },
-    "featured1": {
-        "itemGrants": [
-            "AthenaCharacter:CID_292_Athena_Commando_F_Dieselpunk02"
-        ],
-        "price": 1000
-    },
-    "featured2": {
-        "itemGrants": [
-            "AthenaGlider:Glider_ID_076_DieselPunk"
-        ],
-        "price": 800
-    },
     "featured3": {
         "itemGrants": [
-            "AthenaMusicPack:MusicPack_FMD", "AthenaMusicPack:MusicPack_JennifersBody"
+            "AthenaPickaxe:Pickaxe_ID_024_Plunger "
+    
+            
         ],
-        "price": 2500
+        "price": 800
     }
 }
