@@ -1,51 +1,39 @@
 {
-    "//": "BR Item Shop Config",
-    "daily1": {
-        "itemGrants": [
-            "AthenaCharacter:CID_170_Athena_Commando_F_Luchador"
-        ],
-        "price": 1200
-    },
-    "daily2": {
-        "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_031_Squeak"
-        ],
-        "price": 800
-    },
-    "daily3": {
-        "itemGrants": [
-            "AthenaDance:EID_Laugh"
-        ],
-        "price": 1000
-    },
-    "daily4": {
-        "itemGrants": [
-            "AthenaDance:EID_ElectroSwing"
-        ],
-        "price": 500
-    },
-    "daily5": {
-        "itemGrants": [
-            "AthenaGlider:Glider_ID_196_CycloneMale"
-        ],
-        "price": 1200
-    },
-    "daily6": {
-        "itemGrants": [
-            "AthenaCharacter:CID_442_Athena_Commando_F_BannerA"
-        ],
-        "price": 800
-    },
-    "featured1": {
-        "itemGrants": [
-            "AthenaCharacter:CID_220_Athena_Commando_F_Clown", "AthenaBackpack:BID_111_ClownFemale"
-        ],
-        "price": 1200
-    },
-    "featured2": {
-        "itemGrants": [
-            "AthenaCharacter:CID_221_Athena_Commando_M_Clown", "AthenaBackpack:BID_112_ClownMale"
-        ],
-        "price": 1200
-    }
+  "//": "BR Item Shop Config",
+  "daily1": {
+    "itemGrants": ["Wrap_078_SlurpJuice"],
+    "price": 800
+  },
+  "daily2": {
+    "itemGrants": ["AthenaCharacter:CID_532_Athena_Commando_F_Punchy"],
+    "price": 1200
+  },
+  "daily3": {
+    "itemGrants": ["AthenaCharacter:CID_123_Athena_Commando_F_Metal"],
+    "price": 1200
+  },
+  "daily4": {
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_049_Metal"],
+    "price": 800
+  },
+  "daily5": {
+    "itemGrants": ["AthenaCharacter:CID_216_Athena_Commando_F_Medic"],
+    "price": 1500
+  },
+  "daily6": {
+    "itemGrants": ["AthenaGlider:Glider_ID_073_Medic"],
+    "price": 1200
+  },
+  "featured1": {
+    "itemGrants": ["AthenaCharacter:CID_717_Athena_Commando_F_BlueFlames"],
+    "price": 1500
+  },
+  "featured2": {
+    "itemGrants": ["AthenaCharacter:CID_716_Athena_Commando_M_BlueFlames"],
+    "price": 1500
+  },
+  "featured3": {
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_370_BlueFlames"],
+    "price": 800
+  }
 }
