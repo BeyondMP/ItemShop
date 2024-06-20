@@ -2,50 +2,55 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_170_Athena_Commando_F_Luchador"
+            "AthenaCharacter:CID_674_Athena_Commando_F_HoodieBandit"
         ],
-        "price": 1200
+        "price": 1000
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_031_Squeak"
+            "AthenaPickaxe:Pickaxe_ID_092_Bling"
         ],
         "price": 800
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_Laugh"
+            "AthenaDance:EID_Twist"
         ],
-        "price": 1000
+        "price": 500
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_ElectroSwing"
+            "AthenaDance:EID_Basketball"
         ],
         "price": 500
     },
     "daily5": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_196_CycloneMale"
+            "AthenaGlider:Glider_ID_024_Reaper"
         ],
-        "price": 1200
+        "price": 800
     },
     "daily6": {
         "itemGrants": [
-            "AthenaCharacter:CID_442_Athena_Commando_F_BannerA"
+            "AthenaCharacter:CID_493_Athena_Commando_F_JurassicArchaeology"
         ],
         "price": 800
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_220_Athena_Commando_F_Clown", "AthenaBackpack:BID_111_ClownFemale"
+            "AthenaCharacter:CID_515_Athena_Commando_M_BarbequeLarry"
         ],
-        "price": 1200
+        "price": 1500
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_221_Athena_Commando_M_Clown", "AthenaBackpack:BID_112_ClownMale"
+            "AthenaCharacter:CID_511_Athena_Commando_M_CubePaintWildCard"
+        ],
+        "price": 1500
+   }
+   "featured3": {
+        "itemGrants": [
+            "AthenaPickaxe:Pickaxe_ID_263_JonesyCube"
         ],
         "price": 1200
     }
-}
