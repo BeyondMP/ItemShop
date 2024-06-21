@@ -2,56 +2,56 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_123_Athena_Commando_F_Metal"
+            "AthenaCharacter:CID_328_Athena_Commando_F_Tennis"
         ],
         "price": 1200
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_049_Metal"
+            "AthenaPickaxe:Pickaxe_ID_388_DonutDish1H"
         ],
         "price": 800
     },
     "daily3": {
         "itemGrants": [
-            "AthenaCharacter:CID_259_Athena_Commando_M_StreetOps"
+            "AthenaCharacter:CID_513_Athena_Commando_M_CubePaintJonesy"
         ],
-        "price": 1500
+        "price": 800
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_DreamFeet"
+            "AthenaItemWrap:Wrap_011_HotCold"
         ],
-        "price": 500
+        "price": 300
     },
     "daily5": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_078_SlurpJuice"
+            "AthenaCharacter:CID_471_Athena_Commando_F_Bani"
         ],
         "price": 700
     },
     "daily6": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_073_Medic"
+            "AthenaGlider:Glider_ID_140_ShatterFly"
         ],
         "price": 800
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_717_Athena_Commando_F_BlueFlames"
+            "AthenaCharacter:CID_286_Athena_Commando_F_NeonCat"
         ],
-        "price": 1200
+        "price": 1500
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_716_Athena_Commando_M_BlueFlames"
+            "AthenaPickaxe:Pickaxe_ID_131_NeonCat"
         ],
-        "price": 1200
+        "price": 800
     },
     "featured3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_370_BlueFlames"
+            "AthenaDance:EID_Kittycat"
         ],
-        "price": 800
+        "price": 500
     }
 }
