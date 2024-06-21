@@ -1,12 +1,12 @@
-CID_717_Athena_Commando_F_BlueFlames, 1200
-CID_716_Athena_Commando_M_BlueFlames, 1200
-Pickaxe_ID_370_BlueFlames, 800
+CID_287_Athena_Commando_M_ArcticSniper, 1200
+BID_158_ArcticSniperMale, 500
+Pickaxe_ID_132_ArcticSniper, 800
+MusicPack_039_Envy, 200
 na
 na
-na
-Wrap_078_SlurpJuice, 700
-EID_DreamFeet, 400
-CID_123_Athena_Commando_F_Metal, 1200
-Pickaxe_ID_049_Metal, 800
-CID_259_Athena_Commando_M_StreetOps, 1500
-Glider_ID_073_Medic, 1200
+Wrap_085_Beach, 700
+CID_A_130_Athena_Commando_M_HenchmanSummer, 1300
+Glider_ID_070_DarkViking, 1200
+Pickaxe_ID_260_AngelEclipse1H, 800
+CID_658_Athena_Commando_F_ToyMonkey, 1200
+Glider_ID_068_GarageBand, 1500
