@@ -2,9 +2,9 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_123_Athena_Commando_F_Metal"
+            "AthenaCharacter:CID_703_Athena_Commando_M_Cyclone"
         ],
-        "price": 1200
+        "price": 1800
     },
     "daily2": {
         "itemGrants": [
@@ -14,13 +14,13 @@
     },
     "daily3": {
         "itemGrants": [
-            "AthenaCharacter:CID_259_Athena_Commando_M_StreetOps"
+            "AthenaCharacter:CID_584_Athena_Commando_M_Nosh"
         ],
-        "price": 1500
+        "price": 1200
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_DreamFeet"
+            "AthenaDance:EID_MonteCarlo"
         ],
         "price": 500
     },
@@ -38,13 +38,13 @@
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_717_Athena_Commando_F_BlueFlames"
+            "AthenaCharacter:CID_548_Athena_Commando_M_YellowCamoA"
         ],
-        "price": 1200
+        "price": 800
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_716_Athena_Commando_M_BlueFlames"
+            "AthenaCharacter:CID_428_Athena_Commando_M_UrbanScavenger"
         ],
         "price": 1200
     },
