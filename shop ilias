@@ -1,0 +1,57 @@
+{
+    "//": "BR Item Shop Config",
+    "daily1": {
+        "itemGrants": [
+            "AthenaCharacter:CID_017_Athena_Commando_M"
+        ],
+        "price": 30000
+    },
+    "daily2": {
+        "itemGrants": [
+            "AthenaCharacter:CID_022_Athena_Commando_F"
+        ],
+        "price": 1200
+    },
+    "daily3": {
+        "itemGrants": [
+            "AthenaPickaxe:SpikyPickaxe"
+        ],
+        "price": 800
+    },
+    "daily4": {
+        "itemGrants": [
+            "AthenaDance:EID_Fresh"
+        ],
+        "price": 1500
+    },
+    "daily5": {
+        "itemGrants": [
+            "AthenaBackpack:BID_072_VikingMale"
+        ],
+        "price": 1000
+    },
+    "daily6": {
+        "itemGrants": [
+            "AthenaPickaxe:Pickaxe_ID_179_StarWand"
+        ],
+        "price": 800
+    },
+    "featured1": {
+        "itemGrants": [
+            "AthenaDance:EID_FancyWorkout"
+        ],
+        "price": 500
+    },
+    "featured2": {
+        "itemGrants": [
+            "AthenaCharacter:CID_715_Athena_Commando_F_TwinDark"
+        ],
+        "price": 1200
+    },
+    "featured3": {
+        "itemGrants": [
+            "AthenaGlider:Glider_ID_001"
+        ],
+        "price": 800
+    }
+}
