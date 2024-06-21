@@ -1,0 +1,57 @@
+{
+    "//": "BR Item Shop Config",
+    "daily1": {
+        "itemGrants": [
+            "EID_ArtGiant"
+        ],
+        "price": 500
+    },
+    "daily2": {
+        "itemGrants": [
+            "Pickaxe_ID_339_CODSquadHoodie"
+        ],
+        "price": 800
+    },
+    "daily3": {
+        "itemGrants": [
+            "CID_515_Athena_Commando_M_BarbequeLarry"
+        ],
+        "price": 1500
+    },
+    "daily4": {
+        "itemGrants": [
+            "EID_Griddles"
+        ],
+        "price": 1000
+    },
+    "daily5": {
+        "itemGrants": [
+            "CID_397_Athena_Commando_F_TreasureHunterFashion"
+        ],
+        "price": 800
+    },
+    "daily6": {
+        "itemGrants": [
+            "Umbrella_Snowflake"
+        ],
+        "price": 1000
+    },
+    "featured1": {
+        "itemGrants": [
+            "CID_734_Athena_Commando_F_BannerRed"
+        ],
+        "price": 800
+    },
+    "featured2": {
+        "itemGrants": [
+            "Pickaxe_ID_190_GolfClub"
+        ],
+        "price": 500
+    },
+    "featured3": {
+        "itemGrants": [
+            "CID_552_Athena_Commando_F_TaxiUpgrade"
+        ],
+        "price": 800
+    }
+}
