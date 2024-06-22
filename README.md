@@ -1,12 +1,12 @@
-CID_286_Athena_Commando_F_NeonCat, 1500
-CID_287_Athena_Commando_M_ArcticSniper, 1200
+CID_043_Athena_Commando_F_Stealth, 1800
+CID_092_Athena_Commando_F_RedShirt, 1500
+CID_260_Athena_Commando_F_StreetOps, 1500
 na
 na
 na
-na
-CID_245_Athena_Commando_F_DurrburgerPjs, 1500
-CID_329_Athena_Commando_F_SnowNinja, 1200
-Pickaxe_ID_140_StreetGoth, 800
-EID_WristFlick, 500
-Glider_ID_113_Barbarian, 400
-Wrap_006_Ice, 500
+CID_110_Athena_Commando_F_CircuitBreaker, 1200
+Wrap_077_StormSoldier, 800
+CID_263_Athena_Commando_F_MadCommander, 1200
+Glider_ID_091_MadCommander, 800
+EID_ElectroShuffle_V2, 700
+CID_073_Athena_Commando_F_Scuba, 1200
