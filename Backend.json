@@ -1,51 +1,56 @@
-{
-    "//": "BR Item Shop Config",
+   "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_245_Athena_Commando_F_DurrburgerPjs"
+            "AthenaCharacter:CID_110_Athena_Commando_F_CircuitBreaker"
         ],
-        "price": 1500
+        "price": 1200
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_140_StreetGoth"
+            "Wrap_077_StormSoldier"
         ],
         "price": 800
     },
     "daily3": {
         "itemGrants": [
-            "AthenaCharacter:CID_329_Athena_Commando_F_SnowNinja"
+            "AthenaCharacter:CID_263_Athena_Commando_F_MadCommander"
         ],
         "price": 1200
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_WristFlick"
+            "AthenaGlider:Glider_ID_091_MadCommander"
         ],
-        "price": 500
+        "price": 800
     },
     "daily5": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_006_Ice"
+            "AthenaDance:EID_ElectroShuffle_V2"
         ],
-        "price": 500
+        "price": 700
     },
     "daily6": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_113_Barbarian"
+            "AthenaCharacter:CID_073_Athena_Commando_F_Scuba"
         ],
-        "price": 400
+        "price": 1200
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_286_Athena_Commando_F_NeonCat"
+            "AthenaCharacter:CID_043_Athena_Commando_F_Stealth", "AthenaPickaxe:Pickaxe_ID_037_Stealth"
         ],
         "price": 1500
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_287_Athena_Commando_M_ArcticSniper"
+            "AthenaCharacter:CID_092_Athena_Commando_F_RedShirt", "Wrap_198_VirtualShadow"
         ],
-        "price": 1200
+        "price": 2500
+    },
+    "featured3": {
+        "itemGrants": [
+            "AthenaCharacter:CID_260_Athena_Commando_F_StreetOps", "AthenaPickaxe:Pickaxe_ID_175_Tropical"
+        ],
+        "price": 1500
     }
 }
