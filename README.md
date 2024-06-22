@@ -1,12 +1,12 @@
-CID_286_Athena_Commando_F_NeonCat, 1500
-CID_287_Athena_Commando_M_ArcticSniper, 1200
-na
-na
-na
-na
-CID_245_Athena_Commando_F_DurrburgerPjs, 1500
-CID_329_Athena_Commando_F_SnowNinja, 1200
-Pickaxe_ID_140_StreetGoth, 800
-EID_WristFlick, 500
-Glider_ID_113_Barbarian, 400
-Wrap_006_Ice, 500
+CID_565_Athena_Commando_F_RockClimber, 800
+CID_564_Athena_Commando_M_TacticalFisherman, 800
+CID_567_Athena_Commando_F_RebirthMedic, 1200
+CID_566_Athena_Commando_M_CrazyEight, 1200
+MusicPack_034_SXRocketEvent, 0
+MusicPack_039_Envy, 0
+CID_573_Athena_Commando_M_Haunt, 2000
+CID_599_Athena_Commando_M_Phantom, 1600
+Pickaxe_ID_308_SpookyNeonMale, 500
+EID_NeverGonna, 500
+BID_374_CubeRockerPunk_Female, 500
+Umbrella_Season_11, 0
