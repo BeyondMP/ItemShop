@@ -1,12 +1,12 @@
-CID_226_Athena_Commando_F_Octoberfest, 2000
-CID_225_Athena_Commando_M_Octoberfest, 2000
+CID_143_Athena_Commando_F_DarkNinja, 2000
+BID_060_DarkNinja, 500
+Pickaxe_ID_059_DarkEagle, 1200
 na
 na
 na
-na
-CID_158_Athena_Commando_F_StarsAndStripes, 800
-CID_157_Athena_Commando_M_StarsAndStripes, 800
-Pickaxe_ID_263_JonesyCube, 1500
-EID_Basketball, 500
-EID_CrackshotDance, 800
-Umbrella_Season_05, 500
+CID_037_Athena_Commando_F_WinterCamo, 1200
+CID_036_Athena_Commando_M_WinterCamo, 1200
+Pickaxe_ID_216_DemonHunter1H, 800
+EID_SpeedRun, 500
+EID_BlackMondayFemale_6HO4L, 300
+PetCarrier_011_Dog_Raptor, 1000
