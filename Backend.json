@@ -2,56 +2,56 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaBackpack:BID_028_SpaceBlack"
+            "AthenaBackpack:BID_072_VikingMale"
         ],
         "price": 1000
     },
     "daily2": {
         "itemGrants": [
-            "AthenaCharacter:CID_530_Athena_Commando_F_BlackMonday_1BV6J"
+            "AthenaCharacter:CID_317_Athena_Commando_M_WinterGhoul"
         ],
         "price": 1500
     },
     "daily3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_300_Mastermind"
+            "AthenaPickaxe:Pickaxe_ID_169_Farmer"
         ],
         "price": 800
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_EgyptianDance"
+            "AthenaDance:EID_Zippy"
         ],
-        "price": 500
+        "price": 2000
     },
     "daily5": {
         "itemGrants": [
-            "AthenaCharacter:CID_598_Athena_Commando_M_Mastermind"
+            "AthenaCharacter:CID_617_Athena_Commando_F_ForestQueen"
         ],
-        "price": 1500
+        "price": 1200
     },
     "daily6": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_110_TeriyakiFish"
+            "AthenaGlider:Umbrella_AssassinSuit"
         ],
         "price": 800
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_143_Athena_Commando_F_DarkNinja", "AthenaBackpack:BID_060_DarkNinja"
+            "AthenaCharacter:CID_415_Athena_Commando_F_AssassinSuit", 
         ],
         "price": 1500
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_141_Athena_Commando_M_DarkEagle", "AthenaBackpack:BID_058_DarkEagle"
+            "AthenaCharacter:CID_688_Athena_Commando_F_AgentRogue", 
         ],
         "price": 1500
     },
     "featured3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_059_DarkEagle"
+            "AthenaPickaxe:Pickaxe_ID_095_FootballTrophy"
         ],
-        "price": 800
+        "price": 500
     }
 }
