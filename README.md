@@ -1,12 +1,12 @@
-CID_143_Athena_Commando_F_DarkNinja, 1500
-CID_141_Athena_Commando_M_DarkEagle, 1500
-Pickaxe_ID_059_DarkEagle, 800
+CID_415_Athena_Commando_F_AssassinSuit, 1500
+CID_688_Athena_Commando_F_AgentRogue, 1000
+Pickaxe_ID_095_FootballTrophy, 500
 na
 na
 na
-CID_530_Athena_Commando_F_BlackMonday_1BV6J, 1500
-CID_598_Athena_Commando_M_Mastermind, 1500
-BID_028_SpaceBlack, 1000
-Pickaxe_ID_300_Mastermind, 800
-EID_EgyptianDance, 400
-Glider_ID_110_TeriyakiFish, 800
+CID_317_Athena_Commando_M_WinterGhoul, 1500
+CID_617_Athena_Commando_F_ForestQueen, 1200
+BID_072_VikingMale, 1000
+Pickaxe_ID_169_Farmer, 800
+EID_Zippy, 2000
+Umbrella_AssassinSuit, 800
