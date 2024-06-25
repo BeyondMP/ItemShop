@@ -2,56 +2,56 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_167_SparkleRemix"
+            "AthenaPickaxe:Pickaxe_ID_365_SpyTechHackerMale"
         ],
-        "price": 0
+        "price": 800
     },
     "daily2": {
         "itemGrants": [
-            "AthenaCharacter:CID_124_Athena_Commando_F_AuroraGlow"
+            "AthenaCharacter:CID_689_Athena_Commando_M_SpyTechHacker"
         ],
-        "price": 0
+        "price": 1200
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_RunningManv3"
+            "AthenaDance:EID_TakeTheW"
         ],
-        "price": 0
+        "price": 500
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_Cry"
+            "AthenaDance:EID_TacoTimeDance"
         ],
-        "price": 0
+        "price": 500
     },
     "daily5": {
         "itemGrants": [
-            "AthenaCharacter:CID_240_Athena_Commando_F_Plague"
+            "AthenaCharacter:CID_653_Athena_Commando_F_UglySweaterFrozen"
         ],
-        "price": 0
+        "price": 2000
     },
     "daily6": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_342_GummiMale1H"
+            "AthenaPickaxe:Pickaxe_ID_294_CandyCane"
         ],
-        "price": 0
+        "price": 1500
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_206_Athena_Commando_M_Bling"
+            "AthenaCharacter:CID_703_Athena_Commando_M_Cyclone"
         ],
-        "price": 0
+        "price": 1500
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_195_Athena_Commando_F_Bling"
+            "AthenaCharacter:CID_761_Athena_Commando_M_CycloneSpace"
         ],
-        "price": 0
+        "price": 2000
     },
     "featured3": {
         "itemGrants": [
-            "AthenaBackpack:BID_235_Heist"
+            "AthenaPickaxe:Pickaxe_ID_359_CycloneMale"
         ],
-        "price": 0
+        "price": 800
     }
 }
