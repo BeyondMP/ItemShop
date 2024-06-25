@@ -2,61 +2,61 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_080_Blackout1"
+            "AthenaPickaxe:Pickaxe_ID_307_SkeletonHunter"
         ],
-        "price": 500
+        "price": 800
     },
     "daily2": {
         "itemGrants": [
-            "AthenaCharacter:CID_416_Athena_Commando_M_AssassinSuit", "AthenaBackpack:BID_271_AssassinSuitMale"
+            "AthenaCharacter:CID_664_Athena_Commando_M_Gummi", "AthenaBackpack:BID_454_Gummi"
         ],
-        "price": 2000
+        "price": 1500
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_LasagnaDance"
+            "AthenaDance:EID_Saxophone"
         ],
-        "price": 500
+        "price": 800
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_CrackshotClock"
+            "AthenaDance:EID_CrazyDance"
         ],
         "price": 500
     },
     "daily5": {
         "itemGrants": [
-            "AthenaCharacter:CID_050_Athena_Commando_M_HolidayNutcracker"
+            "AthenaCharacter:CID_397_Athena_Commando_F_TreasureHunterFashion"
         ],
-        "price": 2000
+        "price": 800
     },
     "daily6": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_186_GalileoFerry_48L4V"
+            "AthenaGlider:Glider_ID_083_DarkBomber"
         ],
-        "price": 1200
+        "price": 500
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_582_Athena_Commando_F_DarkDino", "AthenaBackpack:BID_383_DarkDinoFemale"
+            "AthenaCharacter:CID_690_Athena_Commando_F_Photographer", "AthenaDance:EID_Photographer"
         ],
-        "price": 1200
+        "price": 1800
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_581_Athena_Commando_M_DarkDino", "AthenaBackpack:BID_382_DarkDinoMale"
+            "AthenaCharacter:CID_693_Athena_Commando_M_BuffCat", "AthenaDance:EID_BuffCat"
         ],
         "price": 1200
     },
     "featured3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_295_DarkDino1H"
+            "AthenaGlider:Glider_ID_200_PhotographerFemale"
         ],
-        "price": 800    },
+        "price": 1200    },
     "featured4": {
         "itemGrants": [
-            "AthenaMusicPack:MusicPack_039_Envy"
+            "AthenaGlider:Glider_ID_195_BuffCatMale"
         ],
-        "price": 200
+        "price": 1200
     }
 }
