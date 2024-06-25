@@ -1,12 +1,12 @@
-CID_582_Athena_Commando_F_DarkDino, 1200
-CID_581_Athena_Commando_M_DarkDino, 1200
-Pickaxe_ID_295_DarkDino1H, 800
-MusicPack_039_Envy, 200
+CID_690_Athena_Commando_F_Photographer, 1800
+Glider_ID_200_PhotographerFemale, 1200
+CID_693_Athena_Commando_M_BuffCat, 1800
+Glider_ID_195_BuffCatMale, 1200
 na
 na
-CID_416_Athena_Commando_M_AssassinSuit, 2000
-CID_050_Athena_Commando_M_HolidayNutcracker, 2000
-Wrap_080_Blackout1, 500
-EID_LasagnaDance, 500
-EID_CrackshotClock, 500
-Glider_ID_186_GalileoFerry_48L4V, 1200
+CID_664_Athena_Commando_M_Gummi, 1200
+CID_397_Athena_Commando_F_TreasureHunterFashion, 800
+Pickaxe_ID_307_SkeletonHunter, 800
+EID_Saxophone, 800
+EID_CrazyDance, 500
+Glider_ID_083_DarkBomber, 500
