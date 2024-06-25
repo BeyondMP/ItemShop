@@ -2,60 +2,60 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_080_Blackout1"
+            "AthenaCharacter:CID_452_Athena_Commando_F_CyberFu"
         ],
-        "price": 500
+        "price": 1200
     },
     "daily2": {
         "itemGrants": [
-            "AthenaCharacter:CID_416_Athena_Commando_M_AssassinSuit", "AthenaBackpack:BID_271_AssassinSuitMale"
+            "AthenaCharacter:CID_315_Athena_Commando_M_TeriyakiFish"
         ],
-        "price": 2000
+        "price": 1200
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_LasagnaDance"
+            "AthenaGlider:Glider_ID_104_Math"
         ],
         "price": 500
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_CrackshotClock"
+            "AthenaDance:EID_BlackMondayFemale_6HO4L"
         ],
         "price": 500
     },
     "daily5": {
         "itemGrants": [
-            "AthenaCharacter:CID_050_Athena_Commando_M_HolidayNutcracker"
+            "AthenaDance: EID_JazzDance"
         ],
-        "price": 2000
+        "price": 500
     },
     "daily6": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_186_GalileoFerry_48L4V"
+            "AthenaPickaxe:Pickaxe_ID_179_StarWand"
         ],
-        "price": 1200
+        "price": 1000
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_582_Athena_Commando_F_DarkDino", "AthenaBackpack:BID_383_DarkDinoFemale"
+            "AthenaCharacter: CID_748_Athena_Commando_F_Hitman", 
         ],
         "price": 1200
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_581_Athena_Commando_M_DarkDino", "AthenaBackpack:BID_382_DarkDinoMale"
+            "AthenaCharacter:CID_755_Athena_Commando_M_Splinter", 
         ],
         "price": 1200
     },
     "featured3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_295_DarkDino1H"
+            "AthenaPickaxe: Pickaxe_ID_390_FemaleHitman1H"
         ],
         "price": 800    },
     "featured4": {
         "itemGrants": [
-            "AthenaMusicPack:MusicPack_039_Envy"
+            "AthenaMusicPack:MusicPack_009_StarPower"
         ],
         "price": 200
     }
