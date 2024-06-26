@@ -1,12 +1,12 @@
-CID_206_Athena_Commando_M_Bling, 0
-CID_195_Athena_Commando_F_Bling, 0
-BID_235_Heist, 0
+CID_528_Athena_Commando_M_BlackMondayHouston_7DGBT, 2000
+CID_466_Athena_Commando_M_WeirdObjectsCreature, 1200
+EID_TourBus, 300
 na
 na
 na
-CID_240_Athena_Commando_F_Plague, 0
-CID_124_Athena_Commando_F_AuroraGlow, 0
-EID_RunningManv3, 0
-EID_Cry, 0
-Pickaxe_ID_342_GummiMale1H, 0
-Glider_ID_167_SparkleRemix, 0
+CID_635_Athena_Commando_M_GalileoSled_FHJVM, 1200
+Pickaxe_ID_160_IceCream, 800
+EID_CycloneHeadBang, 300
+EID_BillyBounce, 500
+BID_468_Cyclone, 200
+CID_369_Athena_Commando_F_DevilRock, 1200
