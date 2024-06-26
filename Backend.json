@@ -2,56 +2,50 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_167_SparkleRemix"
+            "AthenaCharacter:CID_617_Athena_Commando_F_ForestQueen", "AthenaBackpack:BID_413_ForestQueen"
         ],
-        "price": 0
+        "price": 1500
     },
     "daily2": {
         "itemGrants": [
-            "AthenaCharacter:CID_124_Athena_Commando_F_AuroraGlow"
+            "AthenaCharacter:CID_431_Athena_Commando_F_StormPilot"
         ],
-        "price": 0
+        "price": 800
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_RunningManv3"
+            "AthenaPickaxe:Pickaxe_ID_363_LollipopTricksterFemale"
         ],
-        "price": 0
+        "price": 1200
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_Cry"
+            "AthenaDance:EID_CrabDance"
         ],
-        "price": 0
+        "price": 800
     },
     "daily5": {
         "itemGrants": [
-            "AthenaCharacter:CID_240_Athena_Commando_F_Plague"
+            "AthenaDance:EID_StringDance"
         ],
-        "price": 0
+        "price": 800
     },
     "daily6": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_342_GummiMale1H"
+            "AthenaBackpack:BID_073_DarkViking"
         ],
-        "price": 0
+        "price": 1500
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_206_Athena_Commando_M_Bling"
+            "AthenaCharacter:CID_300_Athena_Commando_F_Angel", "AthenaBackpack:BID_178_Angel"
         ],
-        "price": 0
+        "price": 2000
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_195_Athena_Commando_F_Bling"
+            "AthenaPickaxe:Pickaxe_ID_144_Angel"
         ],
-        "price": 0
-    },
-    "featured3": {
-        "itemGrants": [
-            "AthenaBackpack:BID_235_Heist"
-        ],
-        "price": 0
+        "price": 800
     }
 }
