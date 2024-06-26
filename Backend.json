@@ -2,56 +2,56 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_167_SparkleRemix"
+            "AthenaGlider:Glider_ID_206_Donut"
         ],
-        "price": 0
+        "price": 1500
     },
     "daily2": {
         "itemGrants": [
-            "AthenaCharacter:CID_124_Athena_Commando_F_AuroraGlow"
+            "AthenaWrap:Wrap_128_FragmentedGlowEclipse"
         ],
-        "price": 0
+        "price": 300
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_RunningManv3"
+            "AthenaDance:EID_JumpStyleDance"
         ],
-        "price": 0
+        "price": 800
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_Cry"
+            "AthenaDance:EID_TrueLove"
         ],
-        "price": 0
+        "price": 200
     },
     "daily5": {
         "itemGrants": [
-            "AthenaCharacter:CID_240_Athena_Commando_F_Plague"
+            "AthenaCharacter:CID_753_Athena_Commando_F_Hostile", "AthenaBackpack:BID_515_Hostile"
         ],
-        "price": 0
+        "price": 1200
     },
     "daily6": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_342_GummiMale1H"
+            "AthenaCharacter:CID_387_Athena_Commando_F_Golf"
         ],
-        "price": 0
+        "price": 800
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_206_Athena_Commando_M_Bling"
+            "AthenaCharacter:CID_058_Athena_Commando_M_SkiDude_GER", "AthenaBackpack:BID_011_SkiDude_GER"
         ],
-        "price": 0
+        "price": 1800
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_195_Athena_Commando_F_Bling"
+            "AthenaCharacter:CID_066_Athena_Commando_F_SkiGirl_GER", "AthenaBackpack:BID_019_SkiGirl_GER"
         ],
-        "price": 0
+        "price": 1800
     },
     "featured3": {
         "itemGrants": [
-            "AthenaBackpack:BID_235_Heist"
+            "AthenaPickaxe:Pickaxe_ID_023_SkiBoot"
         ],
-        "price": 0
+        "price": 800
     }
 }
