@@ -1,12 +1,12 @@
-CID_206_Athena_Commando_M_Bling, 0
-CID_195_Athena_Commando_F_Bling, 0
-BID_235_Heist, 0
+CID_424_Athena_Commando_M_Vigilante, 2000
+CID_423_Athena_Commando_F_Painter, 1800
+Pickaxe_ID_092_Bling, 1000
 na
 na
 na
-CID_240_Athena_Commando_F_Plague, 0
-CID_124_Athena_Commando_F_AuroraGlow, 0
-EID_RunningManv3, 0
-EID_Cry, 0
-Pickaxe_ID_342_GummiMale1H, 0
-Glider_ID_167_SparkleRemix, 0
+BID_229_LuckyRiderMale, 500
+CID_647_Athena_Commando_F_WingedFury, 1500
+Pickaxe_ID_215_Pug, 800
+EID_Hopper, 500
+CID_722_Athena_Commando_M_TeriyakiFishAssassin, 1200
+Glider_ID_133_BandageNinja, 1800
