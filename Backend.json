@@ -2,56 +2,56 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_167_SparkleRemix"
+            "AthenaCharacter:CID_369_Athena_Commando_F_DevilRock"
         ],
         "price": 0
     },
     "daily2": {
         "itemGrants": [
-            "AthenaCharacter:CID_124_Athena_Commando_F_AuroraGlow"
+            "AthenaGlider:CID_635_Athena_Commando_M_GalileoSled_FHJVM"
         ],
-        "price": 0
+        "price": 1200
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_RunningManv3"
+            "AthenaDance:EID_CycloneHeadBang"
         ],
-        "price": 0
+        "price": 300
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_Cry"
+            "AthenaDance:EID_BillyBounce"
         ],
-        "price": 0
+        "price": 300
     },
     "daily5": {
         "itemGrants": [
-            "AthenaCharacter:CID_240_Athena_Commando_F_Plague"
+            "AthenaCharacter:BID_468_Cyclone"
         ],
-        "price": 0
+        "price": 1200
     },
     "daily6": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_342_GummiMale1H"
+            "AthenaPickaxe:Pickaxe_ID_160_IceCream"
         ],
-        "price": 0
+        "price": 700
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_206_Athena_Commando_M_Bling"
+            "AthenaCharacter:CID_528_Athena_Commando_M_BlackMondayHouston_7DGBT"
         ],
-        "price": 0
+        "price": 2000
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_195_Athena_Commando_F_Bling"
+            "AthenaCharacter:CID_466_Athena_Commando_M_WeirdObjectsCreature"
         ],
-        "price": 0
+        "price": 1200
     },
     "featured3": {
         "itemGrants": [
-            "AthenaBackpack:BID_235_Heist"
+            "AthenaBackpack:EID_TourBus"
         ],
-        "price": 0
+        "price": 200
     }
 }
