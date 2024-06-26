@@ -1,12 +1,12 @@
-CID_206_Athena_Commando_M_Bling, 0
-CID_195_Athena_Commando_F_Bling, 0
-BID_235_Heist, 0
+CID_058_Athena_Commando_M_SkiDude_GER, 1800
+CID_066_Athena_Commando_F_SkiGirl_GER, 1800
+Pickaxe_ID_023_SkiBoot, 800
 na
 na
 na
-CID_240_Athena_Commando_F_Plague, 0
-CID_124_Athena_Commando_F_AuroraGlow, 0
-EID_RunningManv3, 0
-EID_Cry, 0
-Pickaxe_ID_342_GummiMale1H, 0
-Glider_ID_167_SparkleRemix, 0
+Glider_ID_206_Donut, 1500
+Wrap_128_FragmentedGlowEclipse, 300
+EID_JumpStyleDance, 800
+EID_TrueLove, 200
+CID_753_Athena_Commando_F_Hostile, 1200
+CID_387_Athena_Commando_F_Golf, 800
